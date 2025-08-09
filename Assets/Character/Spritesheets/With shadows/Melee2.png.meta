@@ -469,6 +469,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -476,10 +489,10 @@ TextureImporter:
       name: Melee2_0
       rect:
         serializedVersion: 2
-        x: 44
-        y: 917
-        width: 50
-        height: 60
+        x: 0
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -498,10 +511,10 @@ TextureImporter:
       name: Melee2_1
       rect:
         serializedVersion: 2
-        x: 172
-        y: 918
-        width: 62
-        height: 66
+        x: 128
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -520,10 +533,10 @@ TextureImporter:
       name: Melee2_2
       rect:
         serializedVersion: 2
-        x: 300
-        y: 921
-        width: 66
-        height: 66
+        x: 256
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,10 +555,10 @@ TextureImporter:
       name: Melee2_3
       rect:
         serializedVersion: 2
-        x: 437
-        y: 923
-        width: 64
-        height: 66
+        x: 384
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -564,10 +577,10 @@ TextureImporter:
       name: Melee2_4
       rect:
         serializedVersion: 2
-        x: 579
-        y: 926
-        width: 37
-        height: 62
+        x: 512
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -586,10 +599,10 @@ TextureImporter:
       name: Melee2_5
       rect:
         serializedVersion: 2
-        x: 694
-        y: 924
-        width: 51
-        height: 64
+        x: 640
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -608,10 +621,10 @@ TextureImporter:
       name: Melee2_6
       rect:
         serializedVersion: 2
-        x: 820
-        y: 922
-        width: 60
-        height: 65
+        x: 768
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -630,10 +643,10 @@ TextureImporter:
       name: Melee2_7
       rect:
         serializedVersion: 2
-        x: 951
-        y: 918
-        width: 74
-        height: 65
+        x: 896
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -652,10 +665,10 @@ TextureImporter:
       name: Melee2_8
       rect:
         serializedVersion: 2
-        x: 1079
-        y: 895
-        width: 61
-        height: 91
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -674,10 +687,10 @@ TextureImporter:
       name: Melee2_9
       rect:
         serializedVersion: 2
-        x: 1211
-        y: 895
-        width: 62
-        height: 98
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -696,10 +709,10 @@ TextureImporter:
       name: Melee2_10
       rect:
         serializedVersion: 2
-        x: 1340
-        y: 903
-        width: 61
-        height: 88
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -718,10 +731,10 @@ TextureImporter:
       name: Melee2_11
       rect:
         serializedVersion: 2
-        x: 1455
-        y: 908
-        width: 66
-        height: 81
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -740,10 +753,10 @@ TextureImporter:
       name: Melee2_12
       rect:
         serializedVersion: 2
-        x: 1580
-        y: 910
-        width: 59
-        height: 78
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,10 +775,10 @@ TextureImporter:
       name: Melee2_13
       rect:
         serializedVersion: 2
-        x: 1708
-        y: 913
-        width: 52
-        height: 75
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -784,10 +797,10 @@ TextureImporter:
       name: Melee2_14
       rect:
         serializedVersion: 2
-        x: 1836
-        y: 917
-        width: 50
-        height: 67
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -806,10 +819,10 @@ TextureImporter:
       name: Melee2_15
       rect:
         serializedVersion: 2
-        x: 298
-        y: 784
-        width: 68
-        height: 67
+        x: 0
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -828,10 +841,10 @@ TextureImporter:
       name: Melee2_16
       rect:
         serializedVersion: 2
-        x: 436
-        y: 786
-        width: 64
-        height: 71
+        x: 128
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -850,10 +863,10 @@ TextureImporter:
       name: Melee2_17
       rect:
         serializedVersion: 2
-        x: 573
-        y: 785
-        width: 50
-        height: 71
+        x: 256
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -872,10 +885,10 @@ TextureImporter:
       name: Melee2_18
       rect:
         serializedVersion: 2
-        x: 694
-        y: 783
-        width: 49
-        height: 73
+        x: 384
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -894,10 +907,10 @@ TextureImporter:
       name: Melee2_19
       rect:
         serializedVersion: 2
-        x: 824
-        y: 782
-        width: 54
-        height: 74
+        x: 512
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -916,10 +929,10 @@ TextureImporter:
       name: Melee2_20
       rect:
         serializedVersion: 2
-        x: 953
-        y: 767
-        width: 72
-        height: 88
+        x: 640
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -938,10 +951,10 @@ TextureImporter:
       name: Melee2_21
       rect:
         serializedVersion: 2
-        x: 1081
-        y: 849
-        width: 6
-        height: 6
+        x: 768
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -960,10 +973,10 @@ TextureImporter:
       name: Melee2_22
       rect:
         serializedVersion: 2
-        x: 1181
-        y: 767
-        width: 98
-        height: 90
+        x: 896
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -982,10 +995,10 @@ TextureImporter:
       name: Melee2_23
       rect:
         serializedVersion: 2
-        x: 1319
-        y: 777
-        width: 71
-        height: 86
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1004,10 +1017,10 @@ TextureImporter:
       name: Melee2_24
       rect:
         serializedVersion: 2
-        x: 1451
-        y: 773
-        width: 59
-        height: 87
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1026,10 +1039,10 @@ TextureImporter:
       name: Melee2_25
       rect:
         serializedVersion: 2
-        x: 1577
-        y: 777
-        width: 55
-        height: 83
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1048,10 +1061,10 @@ TextureImporter:
       name: Melee2_26
       rect:
         serializedVersion: 2
-        x: 1704
-        y: 781
-        width: 54
-        height: 78
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1070,10 +1083,10 @@ TextureImporter:
       name: Melee2_27
       rect:
         serializedVersion: 2
-        x: 1832
-        y: 784
-        width: 53
-        height: 67
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1092,10 +1105,10 @@ TextureImporter:
       name: Melee2_28
       rect:
         serializedVersion: 2
-        x: 40
-        y: 785
-        width: 53
-        height: 62
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1114,10 +1127,10 @@ TextureImporter:
       name: Melee2_29
       rect:
         serializedVersion: 2
-        x: 170
-        y: 786
-        width: 57
-        height: 60
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1136,10 +1149,10 @@ TextureImporter:
       name: Melee2_30
       rect:
         serializedVersion: 2
-        x: 1073
-        y: 767
-        width: 68
-        height: 81
+        x: 0
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1158,10 +1171,10 @@ TextureImporter:
       name: Melee2_31
       rect:
         serializedVersion: 2
-        x: 41
-        y: 658
-        width: 39
-        height: 63
+        x: 128
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1180,10 +1193,10 @@ TextureImporter:
       name: Melee2_32
       rect:
         serializedVersion: 2
-        x: 170
-        y: 650
-        width: 48
-        height: 68
+        x: 256
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1202,10 +1215,10 @@ TextureImporter:
       name: Melee2_33
       rect:
         serializedVersion: 2
-        x: 303
-        y: 646
-        width: 47
-        height: 78
+        x: 384
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1224,10 +1237,10 @@ TextureImporter:
       name: Melee2_34
       rect:
         serializedVersion: 2
-        x: 432
-        y: 641
-        width: 44
-        height: 88
+        x: 512
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1246,10 +1259,10 @@ TextureImporter:
       name: Melee2_35
       rect:
         serializedVersion: 2
-        x: 562
-        y: 650
-        width: 48
-        height: 79
+        x: 640
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1268,10 +1281,10 @@ TextureImporter:
       name: Melee2_36
       rect:
         serializedVersion: 2
-        x: 689
-        y: 650
-        width: 45
-        height: 82
+        x: 768
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1290,10 +1303,10 @@ TextureImporter:
       name: Melee2_37
       rect:
         serializedVersion: 2
-        x: 816
-        y: 645
-        width: 39
-        height: 85
+        x: 896
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1312,10 +1325,10 @@ TextureImporter:
       name: Melee2_38
       rect:
         serializedVersion: 2
-        x: 939
-        y: 639
-        width: 44
-        height: 90
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1334,10 +1347,10 @@ TextureImporter:
       name: Melee2_39
       rect:
         serializedVersion: 2
-        x: 1023
-        y: 644
-        width: 103
-        height: 84
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1356,10 +1369,10 @@ TextureImporter:
       name: Melee2_40
       rect:
         serializedVersion: 2
-        x: 1154
-        y: 639
-        width: 99
-        height: 107
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1378,10 +1391,10 @@ TextureImporter:
       name: Melee2_41
       rect:
         serializedVersion: 2
-        x: 1300
-        y: 639
-        width: 70
-        height: 106
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1400,10 +1413,10 @@ TextureImporter:
       name: Melee2_42
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 645
-        width: 64
-        height: 100
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1422,10 +1435,10 @@ TextureImporter:
       name: Melee2_43
       rect:
         serializedVersion: 2
-        x: 1559
-        y: 652
-        width: 56
-        height: 93
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1444,10 +1457,10 @@ TextureImporter:
       name: Melee2_44
       rect:
         serializedVersion: 2
-        x: 1701
-        y: 657
-        width: 42
-        height: 82
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1466,10 +1479,10 @@ TextureImporter:
       name: Melee2_45
       rect:
         serializedVersion: 2
-        x: 1832
-        y: 658
-        width: 40
-        height: 65
+        x: 0
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1488,10 +1501,10 @@ TextureImporter:
       name: Melee2_46
       rect:
         serializedVersion: 2
-        x: 37
-        y: 531
-        width: 38
-        height: 64
+        x: 128
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1510,10 +1523,10 @@ TextureImporter:
       name: Melee2_47
       rect:
         serializedVersion: 2
-        x: 167
-        y: 527
-        width: 36
-        height: 69
+        x: 256
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1532,10 +1545,10 @@ TextureImporter:
       name: Melee2_48
       rect:
         serializedVersion: 2
-        x: 290
-        y: 519
-        width: 41
-        height: 81
+        x: 384
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1554,10 +1567,10 @@ TextureImporter:
       name: Melee2_49
       rect:
         serializedVersion: 2
-        x: 421
-        y: 514
-        width: 34
-        height: 92
+        x: 512
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1576,10 +1589,10 @@ TextureImporter:
       name: Melee2_50
       rect:
         serializedVersion: 2
-        x: 548
-        y: 517
-        width: 38
-        height: 89
+        x: 640
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1598,10 +1611,10 @@ TextureImporter:
       name: Melee2_51
       rect:
         serializedVersion: 2
-        x: 671
-        y: 523
-        width: 45
-        height: 83
+        x: 768
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1620,10 +1633,10 @@ TextureImporter:
       name: Melee2_52
       rect:
         serializedVersion: 2
-        x: 799
-        y: 518
-        width: 53
-        height: 88
+        x: 896
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1642,10 +1655,10 @@ TextureImporter:
       name: Melee2_53
       rect:
         serializedVersion: 2
-        x: 905
-        y: 511
-        width: 67
-        height: 95
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1664,10 +1677,10 @@ TextureImporter:
       name: Melee2_54
       rect:
         serializedVersion: 2
-        x: 1023
-        y: 513
-        width: 79
-        height: 109
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1686,10 +1699,10 @@ TextureImporter:
       name: Melee2_55
       rect:
         serializedVersion: 2
-        x: 1164
-        y: 397
-        width: 63
-        height: 241
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1708,10 +1721,10 @@ TextureImporter:
       name: Melee2_56
       rect:
         serializedVersion: 2
-        x: 1292
-        y: 518
-        width: 52
-        height: 117
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1730,10 +1743,10 @@ TextureImporter:
       name: Melee2_57
       rect:
         serializedVersion: 2
-        x: 1423
-        y: 524
-        width: 57
-        height: 110
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1752,10 +1765,10 @@ TextureImporter:
       name: Melee2_58
       rect:
         serializedVersion: 2
-        x: 1548
-        y: 528
-        width: 63
-        height: 106
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1774,10 +1787,10 @@ TextureImporter:
       name: Melee2_59
       rect:
         serializedVersion: 2
-        x: 1695
-        y: 530
-        width: 44
-        height: 95
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1796,10 +1809,10 @@ TextureImporter:
       name: Melee2_60
       rect:
         serializedVersion: 2
-        x: 1827
-        y: 531
-        width: 40
-        height: 82
+        x: 0
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1818,10 +1831,10 @@ TextureImporter:
       name: Melee2_61
       rect:
         serializedVersion: 2
-        x: 37
-        y: 412
-        width: 46
-        height: 62
+        x: 128
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1840,10 +1853,10 @@ TextureImporter:
       name: Melee2_62
       rect:
         serializedVersion: 2
-        x: 154
-        y: 405
-        width: 57
-        height: 74
+        x: 256
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1862,10 +1875,10 @@ TextureImporter:
       name: Melee2_63
       rect:
         serializedVersion: 2
-        x: 278
-        y: 402
-        width: 61
-        height: 80
+        x: 384
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1884,10 +1897,10 @@ TextureImporter:
       name: Melee2_64
       rect:
         serializedVersion: 2
-        x: 398
-        y: 403
-        width: 61
-        height: 80
+        x: 512
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1906,10 +1919,10 @@ TextureImporter:
       name: Melee2_65
       rect:
         serializedVersion: 2
-        x: 539
-        y: 399
-        width: 35
-        height: 84
+        x: 640
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1928,10 +1941,10 @@ TextureImporter:
       name: Melee2_66
       rect:
         serializedVersion: 2
-        x: 666
-        y: 401
-        width: 50
-        height: 82
+        x: 768
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1950,10 +1963,10 @@ TextureImporter:
       name: Melee2_67
       rect:
         serializedVersion: 2
-        x: 786
-        y: 406
-        width: 57
-        height: 77
+        x: 896
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1972,10 +1985,10 @@ TextureImporter:
       name: Melee2_68
       rect:
         serializedVersion: 2
-        x: 895
-        y: 406
-        width: 74
-        height: 77
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1994,10 +2007,10 @@ TextureImporter:
       name: Melee2_69
       rect:
         serializedVersion: 2
-        x: 1036
-        y: 396
-        width: 54
-        height: 117
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2016,10 +2029,10 @@ TextureImporter:
       name: Melee2_70
       rect:
         serializedVersion: 2
-        x: 1087
-        y: 447
-        width: 10
-        height: 28
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2038,10 +2051,10 @@ TextureImporter:
       name: Melee2_71
       rect:
         serializedVersion: 2
-        x: 1291
-        y: 405
-        width: 59
-        height: 108
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2060,10 +2073,10 @@ TextureImporter:
       name: Melee2_72
       rect:
         serializedVersion: 2
-        x: 1427
-        y: 409
-        width: 61
-        height: 104
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2082,10 +2095,10 @@ TextureImporter:
       name: Melee2_73
       rect:
         serializedVersion: 2
-        x: 1565
-        y: 412
-        width: 54
-        height: 101
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2104,10 +2117,10 @@ TextureImporter:
       name: Melee2_74
       rect:
         serializedVersion: 2
-        x: 1700
-        y: 412
-        width: 47
-        height: 95
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2126,10 +2139,10 @@ TextureImporter:
       name: Melee2_75
       rect:
         serializedVersion: 2
-        x: 1830
-        y: 412
-        width: 45
-        height: 87
+        x: 0
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2148,10 +2161,10 @@ TextureImporter:
       name: Melee2_76
       rect:
         serializedVersion: 2
-        x: 39
-        y: 286
-        width: 50
-        height: 64
+        x: 128
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2170,10 +2183,10 @@ TextureImporter:
       name: Melee2_77
       rect:
         serializedVersion: 2
-        x: 161
-        y: 286
-        width: 52
-        height: 72
+        x: 256
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2192,10 +2205,10 @@ TextureImporter:
       name: Melee2_78
       rect:
         serializedVersion: 2
-        x: 278
-        y: 286
-        width: 63
-        height: 74
+        x: 384
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2214,10 +2227,10 @@ TextureImporter:
       name: Melee2_79
       rect:
         serializedVersion: 2
-        x: 399
-        y: 290
-        width: 61
-        height: 70
+        x: 512
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2236,10 +2249,10 @@ TextureImporter:
       name: Melee2_80
       rect:
         serializedVersion: 2
-        x: 530
-        y: 288
-        width: 48
-        height: 72
+        x: 640
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2258,10 +2271,10 @@ TextureImporter:
       name: Melee2_81
       rect:
         serializedVersion: 2
-        x: 668
-        y: 286
-        width: 47
-        height: 73
+        x: 768
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2280,10 +2293,10 @@ TextureImporter:
       name: Melee2_82
       rect:
         serializedVersion: 2
-        x: 788
-        y: 281
-        width: 53
-        height: 77
+        x: 896
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2302,10 +2315,10 @@ TextureImporter:
       name: Melee2_83
       rect:
         serializedVersion: 2
-        x: 895
-        y: 286
-        width: 72
-        height: 75
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2324,10 +2337,10 @@ TextureImporter:
       name: Melee2_84
       rect:
         serializedVersion: 2
-        x: 1037
-        y: 285
-        width: 78
-        height: 100
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2346,10 +2359,10 @@ TextureImporter:
       name: Melee2_85
       rect:
         serializedVersion: 2
-        x: 1157
-        y: 289
-        width: 105
-        height: 96
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2368,10 +2381,10 @@ TextureImporter:
       name: Melee2_86
       rect:
         serializedVersion: 2
-        x: 1301
-        y: 295
-        width: 73
-        height: 90
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2390,10 +2403,10 @@ TextureImporter:
       name: Melee2_87
       rect:
         serializedVersion: 2
-        x: 1438
-        y: 288
-        width: 59
-        height: 97
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2412,10 +2425,10 @@ TextureImporter:
       name: Melee2_88
       rect:
         serializedVersion: 2
-        x: 1571
-        y: 286
-        width: 54
-        height: 99
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2434,10 +2447,10 @@ TextureImporter:
       name: Melee2_89
       rect:
         serializedVersion: 2
-        x: 1702
-        y: 286
-        width: 51
-        height: 94
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2456,10 +2469,10 @@ TextureImporter:
       name: Melee2_90
       rect:
         serializedVersion: 2
-        x: 1831
-        y: 286
-        width: 51
-        height: 90
+        x: 0
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2478,10 +2491,10 @@ TextureImporter:
       name: Melee2_91
       rect:
         serializedVersion: 2
-        x: 51
-        y: 152
-        width: 38
-        height: 68
+        x: 128
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2500,10 +2513,10 @@ TextureImporter:
       name: Melee2_92
       rect:
         serializedVersion: 2
-        x: 170
-        y: 152
-        width: 45
-        height: 79
+        x: 256
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2522,10 +2535,10 @@ TextureImporter:
       name: Melee2_93
       rect:
         serializedVersion: 2
-        x: 295
-        y: 153
-        width: 44
-        height: 79
+        x: 384
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2544,10 +2557,10 @@ TextureImporter:
       name: Melee2_94
       rect:
         serializedVersion: 2
-        x: 423
-        y: 158
-        width: 42
-        height: 74
+        x: 512
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2566,10 +2579,10 @@ TextureImporter:
       name: Melee2_95
       rect:
         serializedVersion: 2
-        x: 544
-        y: 168
-        width: 46
-        height: 63
+        x: 640
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2588,10 +2601,10 @@ TextureImporter:
       name: Melee2_96
       rect:
         serializedVersion: 2
-        x: 676
-        y: 159
-        width: 42
-        height: 72
+        x: 768
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2610,10 +2623,10 @@ TextureImporter:
       name: Melee2_97
       rect:
         serializedVersion: 2
-        x: 810
-        y: 163
-        width: 39
-        height: 65
+        x: 896
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2632,10 +2645,10 @@ TextureImporter:
       name: Melee2_98
       rect:
         serializedVersion: 2
-        x: 938
-        y: 160
-        width: 47
-        height: 82
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2654,10 +2667,10 @@ TextureImporter:
       name: Melee2_99
       rect:
         serializedVersion: 2
-        x: 1052
-        y: 167
-        width: 101
-        height: 85
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2676,10 +2689,10 @@ TextureImporter:
       name: Melee2_100
       rect:
         serializedVersion: 2
-        x: 1182
-        y: 167
-        width: 99
-        height: 82
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2698,10 +2711,10 @@ TextureImporter:
       name: Melee2_101
       rect:
         serializedVersion: 2
-        x: 1323
-        y: 163
-        width: 71
-        height: 86
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2720,10 +2733,10 @@ TextureImporter:
       name: Melee2_102
       rect:
         serializedVersion: 2
-        x: 1457
-        y: 155
-        width: 58
-        height: 92
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2742,10 +2755,10 @@ TextureImporter:
       name: Melee2_103
       rect:
         serializedVersion: 2
-        x: 1588
-        y: 152
-        width: 53
-        height: 96
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2764,10 +2777,10 @@ TextureImporter:
       name: Melee2_104
       rect:
         serializedVersion: 2
-        x: 1716
-        y: 152
-        width: 43
-        height: 93
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2786,10 +2799,10 @@ TextureImporter:
       name: Melee2_105
       rect:
         serializedVersion: 2
-        x: 1844
-        y: 152
-        width: 39
-        height: 86
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2808,10 +2821,10 @@ TextureImporter:
       name: Melee2_106
       rect:
         serializedVersion: 2
-        x: 52
-        y: 20
-        width: 43
-        height: 70
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2830,10 +2843,10 @@ TextureImporter:
       name: Melee2_107
       rect:
         serializedVersion: 2
-        x: 180
-        y: 23
-        width: 42
-        height: 73
+        x: 256
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2852,10 +2865,10 @@ TextureImporter:
       name: Melee2_108
       rect:
         serializedVersion: 2
-        x: 309
-        y: 24
-        width: 43
-        height: 74
+        x: 384
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2874,10 +2887,10 @@ TextureImporter:
       name: Melee2_109
       rect:
         serializedVersion: 2
-        x: 442
-        y: 29
-        width: 36
-        height: 71
+        x: 512
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2896,10 +2909,10 @@ TextureImporter:
       name: Melee2_110
       rect:
         serializedVersion: 2
-        x: 568
-        y: 39
-        width: 38
-        height: 59
+        x: 640
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2918,10 +2931,10 @@ TextureImporter:
       name: Melee2_111
       rect:
         serializedVersion: 2
-        x: 695
-        y: 32
-        width: 42
-        height: 66
+        x: 768
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2940,10 +2953,10 @@ TextureImporter:
       name: Melee2_112
       rect:
         serializedVersion: 2
-        x: 811
-        y: 32
-        width: 55
-        height: 65
+        x: 896
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2962,10 +2975,10 @@ TextureImporter:
       name: Melee2_113
       rect:
         serializedVersion: 2
-        x: 949
-        y: 37
-        width: 69
-        height: 72
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2984,10 +2997,10 @@ TextureImporter:
       name: Melee2_114
       rect:
         serializedVersion: 2
-        x: 1076
-        y: 26
-        width: 77
-        height: 74
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3006,10 +3019,10 @@ TextureImporter:
       name: Melee2_115
       rect:
         serializedVersion: 2
-        x: 1205
-        y: 9
-        width: 72
-        height: 101
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3028,10 +3041,10 @@ TextureImporter:
       name: Melee2_116
       rect:
         serializedVersion: 2
-        x: 1345
-        y: 18
-        width: 51
-        height: 87
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3050,10 +3063,10 @@ TextureImporter:
       name: Melee2_117
       rect:
         serializedVersion: 2
-        x: 1463
-        y: 21
-        width: 60
-        height: 83
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3072,10 +3085,10 @@ TextureImporter:
       name: Melee2_118
       rect:
         serializedVersion: 2
-        x: 1588
-        y: 21
-        width: 55
-        height: 82
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3094,10 +3107,10 @@ TextureImporter:
       name: Melee2_119
       rect:
         serializedVersion: 2
-        x: 1716
-        y: 21
-        width: 49
-        height: 82
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3112,33 +3125,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Melee2_120
-      rect:
-        serializedVersion: 2
-        x: 1844
-        y: 20
-        width: 45
-        height: 81
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2e631a59bd29f1b80800000000000000
-      internalID: -8421851306353674526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0d4fd35725bceff46b0d6f1cb69fa6cf
     internalID: 0
     vertices: []
     indices: 
@@ -3146,7 +3137,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Melee2_0: -4427260015570025295
       Melee2_1: 3416516698252640533
@@ -3173,7 +3166,6 @@ TextureImporter:
       Melee2_118: -6151324946001320340
       Melee2_119: 2451143234840942432
       Melee2_12: 5759609040691456930
-      Melee2_120: -8421851306353674526
       Melee2_13: -7054811171868529253
       Melee2_14: -3639913203991451828
       Melee2_15: -8948205011891457552
