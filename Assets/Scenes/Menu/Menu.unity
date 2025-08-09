@@ -4541,6 +4541,7 @@ MonoBehaviour:
   autoAdvance: 0
   autoAdvanceDelay: 3
   tutorialSteps: []
+  inputActions: {fileID: 0}
 --- !u!4 &907983982
 Transform:
   m_ObjectHideFlags: 0
