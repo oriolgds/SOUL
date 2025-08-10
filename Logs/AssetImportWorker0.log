@@ -239,3 +239,11 @@ Received Import Request.
 Start importing Assets/Character/Spritesheets/With shadows/Melee.png using Guid(17c6490f63d028344a8964e38fa8cbf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd9457252b8e75473fb2aa3968b87005f') in 0.7999377 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 122
 
+========================================================================
+Received Import Request.
+  Time since last request: 416.580118 seconds.
+  path: Assets/Character/Spritesheets/With shadows/Melee2.png
+  artifactKey: Guid(ad94385a281d0904db802e35676ea770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Character/Spritesheets/With shadows/Melee2.png using Guid(ad94385a281d0904db802e35676ea770) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bc2819abf13b3eaa0b96c4dc3e2df2c2') in 0.8177896 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 122
+
