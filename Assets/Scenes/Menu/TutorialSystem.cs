@@ -194,6 +194,12 @@ public class TutorialSystem : MonoBehaviour
         TutorialStep step = tutorialSteps[stepIndex];
         stepCompleted = false;
 
+        // Resetear flags al entrar en pasos que esperan input
+        if (step.type == TutorialType.WaitForMovement)
+            hasMovedWASD = false;
+        if (step.type == TutorialType.WaitForAttack)
+            hasAttacked = false;
+
         // Mostrar el mensaje con efecto typewriter
         StartCoroutine(TypewriterEffect(step.message));
 
@@ -203,6 +209,7 @@ public class TutorialSystem : MonoBehaviour
             StartCoroutine(AutoAdvanceStep(step.displayTime));
         }
     }
+
 
     private IEnumerator TypewriterEffect(string message)
     {
@@ -220,12 +227,16 @@ public class TutorialSystem : MonoBehaviour
 
     private IEnumerator AutoAdvanceStep(float delay)
     {
+        // Esperar a que termine el typewriter antes de contar el delay
+        yield return new WaitUntil(() => !isTyping);
         yield return new WaitForSeconds(delay);
+
         if (!stepCompleted)
         {
             NextStep();
         }
     }
+
 
     private void CheckStepCompletion()
     {
@@ -271,12 +282,19 @@ public class TutorialSystem : MonoBehaviour
 
     private IEnumerator DelayedNextStep(float delay)
     {
+        // Esperar a que termine el typewriter antes de avanzar
         yield return new WaitForSeconds(delay);
+        yield return new WaitUntil(() => !isTyping);
+
         NextStep();
     }
 
+
+
     public void NextStep()
     {
+        // OJO: ya hemos esperado a que acabe el typewriter en las corutinas,
+        // así que aquí ya no bloqueamos el avance.
         if (isTyping)
             return;
 
@@ -291,6 +309,7 @@ public class TutorialSystem : MonoBehaviour
             EndTutorial();
         }
     }
+
 
     public void SkipTutorial()
     {

@@ -2,7 +2,7 @@ Using pre-set license
 Built from '6000.1/staging' branch; Version is '6000.1.12f1 (da0c3ee78ee0) revision 14289982'; Using compiler version '194234433'; Build Type 'Release'
 OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'es' Physical Memory: 16220 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
-Date: 2025-08-09T11:38:00Z
+Date: 2025-08-15T18:41:21Z
 
 COMMAND LINE ARGUMENTS:
 D:\Installs\Unity Editor\6000.1.12f1\Editor\Unity.exe
@@ -16,7 +16,7 @@ C:/Users/ogine/SOUL
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62875
+51082
 -job-worker-count
 3
 -background-job-worker-count
@@ -62,16 +62,16 @@ C:/Users/ogine/SOUL
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [12032]  Target information:
+Player connection [11304]  Target information:
 
-Player connection [12032]  * "[IP] 192.168.1.161 [Port] 0 [Flags] 2 [Guid] 4270658869 [EditorId] 4270658869 [Version] 1048832 [Id] WindowsEditor(7,ASUS_TUF_F15) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [11304]  * "[IP] 192.168.1.163 [Port] 0 [Flags] 2 [Guid] 3819909547 [EditorId] 3819909547 [Version] 1048832 [Id] WindowsEditor(7,ASUS_TUF_F15) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [12032]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 4270658869 [EditorId] 4270658869 [Version] 1048832 [Id] WindowsEditor(7,ASUS_TUF_F15) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [11304]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3819909547 [EditorId] 3819909547 [Version] 1048832 [Id] WindowsEditor(7,ASUS_TUF_F15) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [12032]  * "[IP] 192.168.158.2 [Port] 0 [Flags] 2 [Guid] 4270658869 [EditorId] 4270658869 [Version] 1048832 [Id] WindowsEditor(7,ASUS_TUF_F15) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [11304]  * "[IP] 192.168.158.2 [Port] 0 [Flags] 2 [Guid] 3819909547 [EditorId] 3819909547 [Version] 1048832 [Id] WindowsEditor(7,ASUS_TUF_F15) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [12032] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [12032] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [11304] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [11304] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 3
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
@@ -83,7 +83,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 346.95 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 5.66 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.1.12f1 (da0c3ee78ee0)
 [Subsystems] Discovering subsystems at path D:/Installs/Unity Editor/6000.1.12f1/Editor/Data/Resources/UnitySubsystems
@@ -95,52 +95,52 @@ Direct3D:
     Vendor:          NVIDIA
     VRAM:            3937 MB
     App VRAM Budget: 3346 MB
-    Driver:          32.0.15.7700
+    Driver:          32.0.15.8097
 Initialize mono
 Mono path[0] = 'D:/Installs/Unity Editor/6000.1.12f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Installs/Unity Editor/6000.1.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/Installs/Unity Editor/6000.1.12f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56316
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56924
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Installs/Unity Editor/6000.1.12f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/Installs/Unity Editor/6000.1.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: D:/Installs/Unity Editor/6000.1.12f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
-Registered in 0.005226 seconds.
-- Loaded All Assemblies, in  0.979 seconds
+Registered in 0.002051 seconds.
+- Loaded All Assemblies, in  0.514 seconds
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.789 seconds
-Domain Reload Profiling: 1767ms
-	BeginReloadAssembly (324ms)
+- Finished resetting the current domain, in  0.460 seconds
+Domain Reload Profiling: 974ms
+	BeginReloadAssembly (152ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (2ms)
-	RebuildCommonClasses (106ms)
-	RebuildNativeTypeToScriptingClass (31ms)
-	initialDomainReloadingComplete (111ms)
-	LoadAllAssembliesAndSetupDomain (404ms)
-		LoadAssemblies (324ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (105ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (190ms)
+		LoadAssemblies (151ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (397ms)
-			TypeCache.Refresh (395ms)
-				TypeCache.ScanAssembly (365ms)
+		AnalyzeDomain (186ms)
+			TypeCache.Refresh (184ms)
+				TypeCache.ScanAssembly (168ms)
 			BuildScriptInfoCaches (0ms)
-			ResolveRequiredComponents (1ms)
-	FinalizeReload (790ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (460ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (706ms)
+		SetupLoadedEditorAssemblies (407ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (111ms)
-			SetLoadedEditorAssemblies (9ms)
-			BeforeProcessingInitializeOnLoad (162ms)
-			ProcessInitializeOnLoadAttributes (304ms)
-			ProcessInitializeOnLoadMethodAttributes (120ms)
+			InitializePlatformSupportModulesInManaged (64ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (79ms)
+			ProcessInitializeOnLoadAttributes (187ms)
+			ProcessInitializeOnLoadMethodAttributes (72ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -152,12 +152,11 @@ Import Worker Mode flag is 0x00
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Begin MonoManager ReloadAssembly
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-- Loaded All Assemblies, in  3.096 seconds
+- Loaded All Assemblies, in  0.974 seconds
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-Refreshing native plugins compatible for Editor in 6.33 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 1.82 ms, found 4 plugins.
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
@@ -167,83 +166,1649 @@ Package Manager log level set to [2]
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  3.675 seconds
-Domain Reload Profiling: 6767ms
-	BeginReloadAssembly (1656ms)
+- Finished resetting the current domain, in  1.015 seconds
+Domain Reload Profiling: 1987ms
+	BeginReloadAssembly (294ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (1143ms)
+		DisableScriptedObjects (30ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (50ms)
-	RebuildCommonClasses (94ms)
-	RebuildNativeTypeToScriptingClass (32ms)
-	initialDomainReloadingComplete (83ms)
-	LoadAllAssembliesAndSetupDomain (1225ms)
-		LoadAssemblies (835ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (566ms)
+		LoadAssemblies (412ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (634ms)
-			TypeCache.Refresh (510ms)
-				TypeCache.ScanAssembly (471ms)
-			BuildScriptInfoCaches (100ms)
-			ResolveRequiredComponents (17ms)
-	FinalizeReload (3676ms)
+		AnalyzeDomain (278ms)
+			TypeCache.Refresh (208ms)
+				TypeCache.ScanAssembly (190ms)
+			BuildScriptInfoCaches (57ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1016ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (3311ms)
+		SetupLoadedEditorAssemblies (878ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (4ms)
-			SetLoadedEditorAssemblies (12ms)
-			BeforeProcessingInitializeOnLoad (410ms)
-			ProcessInitializeOnLoadAttributes (2464ms)
-			ProcessInitializeOnLoadMethodAttributes (408ms)
-			AfterProcessingInitializeOnLoad (12ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (148ms)
+			ProcessInitializeOnLoadAttributes (669ms)
+			ProcessInitializeOnLoadMethodAttributes (52ms)
+			AfterProcessingInitializeOnLoad (2ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (79ms)
-Refreshing native plugins compatible for Editor in 10.81 ms, found 4 plugins.
+		AwakeInstancesAfterBackupRestoration (21ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.84 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 5209 unused Assets / (1.5 MB). Loaded Objects now: 5735.
-Memory consumption went from 103.6 MB to 102.1 MB.
-Total: 31.687600 ms (FindLiveObjects: 1.255700 ms CreateObjectMapping: 2.594200 ms MarkObjects: 22.529900 ms  DeleteObjects: 5.303000 ms)
+Unloading 5209 unused Assets / (2.7 MB). Loaded Objects now: 5715.
+Memory consumption went from 102.6 MB to 99.9 MB.
+Total: 9.971200 ms (FindLiveObjects: 0.636200 ms CreateObjectMapping: 0.811400 ms MarkObjects: 6.026000 ms  DeleteObjects: 2.495100 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 58147.674528 seconds.
-  path: Assets/32rogues/items.png
-  artifactKey: Guid(6b2470e64946d4e4b838950d213b3df7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/32rogues/items.png using Guid(6b2470e64946d4e4b838950d213b3df7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b39b2cd943542f4f8fb9ae8dd30fabc5') in 1.7129018 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 163
+  Time since last request: 23940.301509 seconds.
+  path: Assets/Player/Animations/Player.controller
+  artifactKey: Guid(e87db3bcecffbfe4db28d8473358ebc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/Player.controller using Guid(e87db3bcecffbfe4db28d8473358ebc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cda81cccc001528a2409c78b216cd232') in 0.0432382 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 130
 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/32rogues/items-palette-swaps.png
-  artifactKey: Guid(527e77c0ce14a1341bee81055e89a235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/32rogues/items-palette-swaps.png using Guid(527e77c0ce14a1341bee81055e89a235) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '12b4faa4b488aec29e3e10912e4fa44c') in 1.6190912 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 244
+Received Prepare
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 5.86 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5194 unused Assets / (1.7 MB). Loaded Objects now: 5718.
+Memory consumption went from 101.2 MB to 99.5 MB.
+Total: 16.390300 ms (FindLiveObjects: 0.835900 ms CreateObjectMapping: 1.233500 ms MarkObjects: 12.108300 ms  DeleteObjects: 2.211000 ms)
 
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.952 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.40 ms, found 4 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.112 seconds
+Domain Reload Profiling: 2064ms
+	BeginReloadAssembly (303ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (43ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (64ms)
+	RebuildCommonClasses (61ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (535ms)
+		LoadAssemblies (467ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (208ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (183ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1112ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (938ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (198ms)
+			ProcessInitializeOnLoadAttributes (668ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (23ms)
+Refreshing native plugins compatible for Editor in 3.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5206 unused Assets / (2.0 MB). Loaded Objects now: 5721.
+Memory consumption went from 104.3 MB to 102.3 MB.
+Total: 9.235500 ms (FindLiveObjects: 0.625200 ms CreateObjectMapping: 0.880300 ms MarkObjects: 5.942700 ms  DeleteObjects: 1.785300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.839 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.86 ms, found 4 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.135 seconds
+Domain Reload Profiling: 1974ms
+	BeginReloadAssembly (276ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (45ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (61ms)
+	RebuildCommonClasses (56ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (453ms)
+		LoadAssemblies (362ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (205ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (181ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1135ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (944ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (196ms)
+			ProcessInitializeOnLoadAttributes (679ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (25ms)
+Refreshing native plugins compatible for Editor in 1.84 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5206 unused Assets / (1.9 MB). Loaded Objects now: 5723.
+Memory consumption went from 104.9 MB to 103.0 MB.
+Total: 9.738800 ms (FindLiveObjects: 0.868200 ms CreateObjectMapping: 1.044300 ms MarkObjects: 6.034500 ms  DeleteObjects: 1.790600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.830 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.76 ms, found 4 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.116 seconds
+Domain Reload Profiling: 1946ms
+	BeginReloadAssembly (270ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (44ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (57ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (460ms)
+		LoadAssemblies (377ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (198ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (175ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1116ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (930ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (180ms)
+			ProcessInitializeOnLoadAttributes (683ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (28ms)
+Refreshing native plugins compatible for Editor in 2.18 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5206 unused Assets / (1.8 MB). Loaded Objects now: 5725.
+Memory consumption went from 105.6 MB to 103.8 MB.
+Total: 11.023300 ms (FindLiveObjects: 0.744400 ms CreateObjectMapping: 1.017700 ms MarkObjects: 7.485700 ms  DeleteObjects: 1.773700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.208 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.02 ms, found 4 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.599 seconds
+Domain Reload Profiling: 2807ms
+	BeginReloadAssembly (462ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (69ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (82ms)
+	RebuildCommonClasses (50ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (648ms)
+		LoadAssemblies (558ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (293ms)
+			TypeCache.Refresh (14ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (265ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1599ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1382ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (237ms)
+			ProcessInitializeOnLoadAttributes (1019ms)
+			ProcessInitializeOnLoadMethodAttributes (113ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (37ms)
+Refreshing native plugins compatible for Editor in 1.98 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5209 unused Assets / (2.3 MB). Loaded Objects now: 5730.
+Memory consumption went from 106.2 MB to 104.0 MB.
+Total: 11.593900 ms (FindLiveObjects: 0.835600 ms CreateObjectMapping: 1.154500 ms MarkObjects: 7.059100 ms  DeleteObjects: 2.542900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.934 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.75 ms, found 4 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.171 seconds
+Domain Reload Profiling: 2107ms
+	BeginReloadAssembly (311ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (69ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (65ms)
+	RebuildCommonClasses (53ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (517ms)
+		LoadAssemblies (407ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (224ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (200ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1172ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (983ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (202ms)
+			ProcessInitializeOnLoadAttributes (708ms)
+			ProcessInitializeOnLoadMethodAttributes (60ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (25ms)
+Refreshing native plugins compatible for Editor in 2.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5209 unused Assets / (1.9 MB). Loaded Objects now: 5732.
+Memory consumption went from 106.8 MB to 104.9 MB.
+Total: 8.581800 ms (FindLiveObjects: 0.580200 ms CreateObjectMapping: 0.891100 ms MarkObjects: 4.996100 ms  DeleteObjects: 2.113000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
 ========================================================================
 Received Import Request.
-  Time since last request: 28.175419 seconds.
-  path: Assets/RF_Catacombs_v1.0
-  artifactKey: Guid(6b93551df65e71247b7b1319eb0b919e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/RF_Catacombs_v1.0 using Guid(6b93551df65e71247b7b1319eb0b919e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '41a8ebfc0e9ac1176c6eb0394e578a44') in 0.0007466 seconds
+  Time since last request: 1633.558180 seconds.
+  path: Assets/Player/Script/PlayerController.cs
+  artifactKey: Guid(daccccde7d4d8154fbcebc4a098d199e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Script/PlayerController.cs using Guid(daccccde7d4d8154fbcebc4a098d199e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0d063d5b2b7709eb905f9a1caf20deb9') in 0.0023433 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
 ========================================================================
 Received Import Request.
-  Time since last request: 551.699672 seconds.
-  path: Assets/Character/Spritesheets/With shadows/Melee.png
-  artifactKey: Guid(17c6490f63d028344a8964e38fa8cbf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Character/Spritesheets/With shadows/Melee.png using Guid(17c6490f63d028344a8964e38fa8cbf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd9457252b8e75473fb2aa3968b87005f') in 0.7999377 seconds
+  Time since last request: 1.721687 seconds.
+  path: Assets/Player/Script/PlayerAnimationController.cs
+  artifactKey: Guid(3d6b64f9baaa9fd49a6ad169d0e15384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Script/PlayerAnimationController.cs using Guid(3d6b64f9baaa9fd49a6ad169d0e15384) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f6cfbaa5b023ce1587928faba3deaaf1') in 0.0009023 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.884 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.84 ms, found 4 plugins.
+Assertion failed on expression: 'pred(*previous, *i)'
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.121 seconds
+Domain Reload Profiling: 2006ms
+	BeginReloadAssembly (299ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (60ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (56ms)
+	RebuildCommonClasses (54ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (478ms)
+		LoadAssemblies (380ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (218ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (194ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1122ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (919ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (188ms)
+			ProcessInitializeOnLoadAttributes (655ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (31ms)
+Refreshing native plugins compatible for Editor in 1.95 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5209 unused Assets / (1.9 MB). Loaded Objects now: 5734.
+Memory consumption went from 103.8 MB to 101.9 MB.
+Total: 11.296400 ms (FindLiveObjects: 0.653900 ms CreateObjectMapping: 1.189000 ms MarkObjects: 6.847100 ms  DeleteObjects: 2.605100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 77.147546 seconds.
+  path: Assets/Player/Animations/Player.controller
+  artifactKey: Guid(e87db3bcecffbfe4db28d8473358ebc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/Player.controller using Guid(e87db3bcecffbfe4db28d8473358ebc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '019dfc341f40fa42311b4a5525a4c0d1') in 0.0665605 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 130
+
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.889 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.76 ms, found 4 plugins.
+Assertion failed on expression: 'pred(*previous, *i)'
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.114 seconds
+Domain Reload Profiling: 2006ms
+	BeginReloadAssembly (289ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (56ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (56ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (503ms)
+		LoadAssemblies (396ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (217ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (190ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1114ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (915ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (192ms)
+			ProcessInitializeOnLoadAttributes (649ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (26ms)
+Refreshing native plugins compatible for Editor in 2.02 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5209 unused Assets / (1.7 MB). Loaded Objects now: 5736.
+Memory consumption went from 103.8 MB to 102.1 MB.
+Total: 12.294200 ms (FindLiveObjects: 1.416400 ms CreateObjectMapping: 1.292400 ms MarkObjects: 6.208500 ms  DeleteObjects: 3.374600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.985 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.12 ms, found 4 plugins.
+Assertion failed on expression: 'pred(*previous, *i)'
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.965 seconds
+Domain Reload Profiling: 1953ms
+	BeginReloadAssembly (341ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (86ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (60ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (550ms)
+		LoadAssemblies (460ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (223ms)
+			TypeCache.Refresh (16ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (192ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (966ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (791ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (185ms)
+			ProcessInitializeOnLoadAttributes (554ms)
+			ProcessInitializeOnLoadMethodAttributes (41ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (22ms)
+Refreshing native plugins compatible for Editor in 1.69 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5209 unused Assets / (2.1 MB). Loaded Objects now: 5738.
+Memory consumption went from 104.5 MB to 102.4 MB.
+Total: 8.482900 ms (FindLiveObjects: 0.606500 ms CreateObjectMapping: 0.842000 ms MarkObjects: 4.855800 ms  DeleteObjects: 2.177100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.835 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.91 ms, found 4 plugins.
+Assertion failed on expression: 'pred(*previous, *i)'
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.124 seconds
+Domain Reload Profiling: 1961ms
+	BeginReloadAssembly (279ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (56ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (463ms)
+		LoadAssemblies (365ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (211ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (187ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (1125ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (931ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (176ms)
+			ProcessInitializeOnLoadAttributes (684ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (29ms)
+Refreshing native plugins compatible for Editor in 2.35 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5209 unused Assets / (1.8 MB). Loaded Objects now: 5740.
+Memory consumption went from 105.1 MB to 103.3 MB.
+Total: 13.363100 ms (FindLiveObjects: 0.956700 ms CreateObjectMapping: 2.266900 ms MarkObjects: 8.068300 ms  DeleteObjects: 2.069700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1474.131648 seconds.
+  path: Assets/Enemies
+  artifactKey: Guid(66342eaee3444904d97415bd26a8753d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies using Guid(66342eaee3444904d97415bd26a8753d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7776e66a296b0a07251fbb4ebf44f34c') in 0.0019922 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 534.725707 seconds.
+  path: Assets/Enemies/Spritemaps
+  artifactKey: Guid(68b51aea2fcbd094c98bc6279d57c421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps using Guid(68b51aea2fcbd094c98bc6279d57c421) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '79385037acb2b28e10afe54b1e4a420b') in 0.0011885 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.087399 seconds.
+  path: Assets/Enemies/Spritemaps/COUPON.png
+  artifactKey: Guid(53b77d1d4b9445d4d8698267d4a9af6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/COUPON.png using Guid(53b77d1d4b9445d4d8698267d4a9af6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '827531f57b8e918ef8760792d0002533') in 0.1917145 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.389370 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files
+  artifactKey: Guid(0ce6ec3caf3e344438bf8dfa095e68a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files using Guid(0ce6ec3caf3e344438bf8dfa095e68a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8bb3cd0f0e6b406873453cfa4c9fb89a') in 0.000611 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.548417 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime1_Attack_body.png
+  artifactKey: Guid(56095b9fe03fedc43a64f5881efc241c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime1_Attack_body.png using Guid(56095b9fe03fedc43a64f5881efc241c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c47e3e2a32f8d57bd4cc601c4bab46e3') in 0.3841096 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 112
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime2_Attack_full.png
+  artifactKey: Guid(e1a1e4b59f6e575498fc48b2f0b24513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime2_Attack_full.png using Guid(e1a1e4b59f6e575498fc48b2f0b24513) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a20c454fca8032b5a8cc611526829c2e') in 0.3798487 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 104
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime2_Attack_shadow.png
+  artifactKey: Guid(468c5b12d9dd4b84b8f64884b219226c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime2_Attack_shadow.png using Guid(468c5b12d9dd4b84b8f64884b219226c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '083425ee0e47321a8cfbfe664b830708') in 0.1609459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 46
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime2_Death_full.png
+  artifactKey: Guid(c3c7359dac30d414ea7ae2382db0e8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime2_Death_full.png using Guid(c3c7359dac30d414ea7ae2382db0e8dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '643dfec53976d91cc1cfdf18e6f8cfd9') in 0.3336177 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 89
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime3_Attack_full.png
+  artifactKey: Guid(7cd20c22c31e4c04c9f3e73b10da0154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime3_Attack_full.png using Guid(7cd20c22c31e4c04c9f3e73b10da0154) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f1d484b7e7052884a1b2fb8e3302d30') in 0.2132556 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 54
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime_Walk_shadow.png
+  artifactKey: Guid(be233813de3dbc2469808968f1bf1260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime_Walk_shadow.png using Guid(be233813de3dbc2469808968f1bf1260) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dc5f6281f88a34ab92f070d80caec423') in 0.1176706 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime3_Run_full.png
+  artifactKey: Guid(65aebf26cb184704fb3841628019f991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime3_Run_full.png using Guid(65aebf26cb184704fb3841628019f991) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '46e91dbef2bcf16a213e3e4d0ce375c0') in 0.2246754 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 64
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime3_Idle_shadow.png
+  artifactKey: Guid(5b03ecbb766409c4982f0c63ad3d49aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime3_Idle_shadow.png using Guid(5b03ecbb766409c4982f0c63ad3d49aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '397fdbc01834497a546506d27fc2906c') in 0.0867457 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime2_Walk_body.png
+  artifactKey: Guid(a9a2f915c054e1349823d4f960115a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime2_Walk_body.png using Guid(a9a2f915c054e1349823d4f960115a27) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b6b2c2d83b7926a283f3f50b51ff7f23') in 0.2291581 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 62
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime3_Hurt_body.png
+  artifactKey: Guid(da991c44408fcaa4cba8abfd9df51b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime3_Hurt_body.png using Guid(da991c44408fcaa4cba8abfd9df51b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '739bb51a3cb495e48c6b73149fe340e0') in 0.1477719 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 39
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime1_Idle_body.png
+  artifactKey: Guid(9f6025c9789b4624ca2874958b8eba84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime1_Idle_body.png using Guid(9f6025c9789b4624ca2874958b8eba84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '80dea99ee2159c6fe818c4286485b500') in 0.1222575 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime3_Death_shadow.png
+  artifactKey: Guid(8b50e4f3121694c468abfc5e6f90d03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime3_Death_shadow.png using Guid(8b50e4f3121694c468abfc5e6f90d03d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3a4ba8c6ecda83fe8aefab2de081147e') in 0.1341286 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime2_Attack_body.png
+  artifactKey: Guid(84b4bd317a03a8b4fa57201806e1eeea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime2_Attack_body.png using Guid(84b4bd317a03a8b4fa57201806e1eeea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1a9fd28631541571c9b513d5f2fe90ad') in 0.3704738 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 108
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime2_Death_shadow.png
+  artifactKey: Guid(910576d4350415b468ba641506899c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime2_Death_shadow.png using Guid(910576d4350415b468ba641506899c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fb8a2a9b4120e2b363c6784fa2a99f40') in 0.1331944 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime2_Hurt_shadow.png
+  artifactKey: Guid(303e1a6c3f19b8144bc1300a5cdfb4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime2_Hurt_shadow.png using Guid(303e1a6c3f19b8144bc1300a5cdfb4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '765710a12ca5c91aa69da417fac6f580') in 0.0776928 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime2_Run_body.png
+  artifactKey: Guid(a1b5bab30ad767e49a74447d8a981324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime2_Run_body.png using Guid(a1b5bab30ad767e49a74447d8a981324) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e56053bd9e7c0d330a6ea5cdbd10cfab') in 0.2353155 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 66
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime3_Idle_full.png
+  artifactKey: Guid(5f5a004c129cb4b43873e4a90f48932d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime3_Idle_full.png using Guid(5f5a004c129cb4b43873e4a90f48932d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '469294ee7086f96ee4ba10f91e89ad44') in 0.134246 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime3_Death_body.png
+  artifactKey: Guid(01b518c1c1e37324b817733f29c4826e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime3_Death_body.png using Guid(01b518c1c1e37324b817733f29c4826e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ed608565d0d785fba2f667162f06f511') in 0.3024246 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 90
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime2_Idle_full.png
+  artifactKey: Guid(9eaa993a89c5b9547be90cf4eecdc1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime2_Idle_full.png using Guid(9eaa993a89c5b9547be90cf4eecdc1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '51931faae3b452880cd8e20e5073d86d') in 0.1391685 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime2_Walk_full.png
+  artifactKey: Guid(6703feb4811f19a4093a10556df3e25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime2_Walk_full.png using Guid(6703feb4811f19a4093a10556df3e25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c6383aeb8e1b44a67d503fae8917a69f') in 0.2206126 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 62
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime3_Walk_full.png
+  artifactKey: Guid(6751e8e9238272443849c9f2da1c935a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime3_Walk_full.png using Guid(6751e8e9238272443849c9f2da1c935a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4415564df5b17e4970884bc325db3702') in 0.1928237 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 54
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime3_Hurt_shadow.png
+  artifactKey: Guid(f9d1ea77fb09bab4999b898f474c6765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime3_Hurt_shadow.png using Guid(f9d1ea77fb09bab4999b898f474c6765) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e8215031a943c52572fc2482f780e8d7') in 0.0757782 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime_Hurt_shadow.png
+  artifactKey: Guid(40437835f3645594794a2b635092e10c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime_Hurt_shadow.png using Guid(40437835f3645594794a2b635092e10c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd0fded60fe2c601b2fae6f5928b9db47') in 0.0775966 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime_Death_shadow.png
+  artifactKey: Guid(c0e491ca0dcd17943a708bf43eafc93d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime_Death_shadow.png using Guid(c0e491ca0dcd17943a708bf43eafc93d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '891380589bc8ab7dc953ae5daaaed415') in 0.1390695 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime1_Idle_full.png
+  artifactKey: Guid(f4f72454bc728e548be70069e6dd2fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime1_Idle_full.png using Guid(f4f72454bc728e548be70069e6dd2fe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e9b0c7102bce03f83c992c4e1cf51387') in 0.124286 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Enemies/Spritemaps/Tiled_files/Slime3_Idle_body.png
+  artifactKey: Guid(69f46a8def2609740b6ec6f4df524abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/Tiled_files/Slime3_Idle_body.png using Guid(69f46a8def2609740b6ec6f4df524abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0aa78c4211e63dae7e310f82312816a') in 0.1375494 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.958446 seconds.
+  path: Assets/Enemies/Spritemaps/PNG
+  artifactKey: Guid(64f1b03be29635c4b921d7fe83e9e171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG using Guid(64f1b03be29635c4b921d7fe83e9e171) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b54e9e5b14f2b44a553e4f17791055fd') in 0.0004793 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.031052 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1
+  artifactKey: Guid(27ba53e253fb57f4f9bec8204883444a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1 using Guid(27ba53e253fb57f4f9bec8204883444a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ba343b6da72bec4b92b95a17b5d53215') in 0.0004817 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.773492 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Idle
+  artifactKey: Guid(faee8c6c8d8f35f42859e8fe129842b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Idle using Guid(faee8c6c8d8f35f42859e8fe129842b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd0d7e452c2adee33352a901992d5290e') in 0.0004501 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.084492 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Idle/Slime1_Idle_body.png
+  artifactKey: Guid(4d25be2d8189017459b1f0280a140f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Idle/Slime1_Idle_body.png using Guid(4d25be2d8189017459b1f0280a140f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1b19a6a991b352556ea11643c57a1a7') in 0.1240921 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Idle/Slime1_Idle_shadow.png
+  artifactKey: Guid(4a32c2c358d91bc498acbbda010de804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Idle/Slime1_Idle_shadow.png using Guid(4a32c2c358d91bc498acbbda010de804) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db4cbf3be8634e584cbb1bbf11dc534d') in 0.0843396 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.390109 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Idle/Slime1_Idle_full.png
+  artifactKey: Guid(67467edf3e7822443bc7cf5b9851a6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Idle/Slime1_Idle_full.png using Guid(67467edf3e7822443bc7cf5b9851a6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '256975931a7d9283ee8c24a0cec8df6b') in 0.0968237 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.696353 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Idle/Slime1_Idle_full.png
+  artifactKey: Guid(67467edf3e7822443bc7cf5b9851a6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Idle/Slime1_Idle_full.png using Guid(67467edf3e7822443bc7cf5b9851a6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8cd5ebdba5938b741f95a9836a88276a') in 0.0831066 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.996152 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Idle/Slime1_Idle_full.png
+  artifactKey: Guid(67467edf3e7822443bc7cf5b9851a6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Idle/Slime1_Idle_full.png using Guid(67467edf3e7822443bc7cf5b9851a6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '720f1012a797bc796f48da7934e22bdf') in 0.0688951 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.252472 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Idle/Slime1_Idle_full.png
+  artifactKey: Guid(67467edf3e7822443bc7cf5b9851a6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Idle/Slime1_Idle_full.png using Guid(67467edf3e7822443bc7cf5b9851a6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ee902deff463941ec4a0283af20e01ba') in 0.072288 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.613717 seconds.
+  path: Assets/Enemies/Animations
+  artifactKey: Guid(964deb35519e43944ad01758accb4b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Animations using Guid(964deb35519e43944ad01758accb4b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8387bcdb3aecf1557e6c284f0aed55d5') in 0.000489 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.636857 seconds.
+  path: Assets/Enemies/Animations/Slime1
+  artifactKey: Guid(659b8e0d121d60048b43c84b890a0254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Animations/Slime1 using Guid(659b8e0d121d60048b43c84b890a0254) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e47e57b375812e3e1eba9d8481c11c4d') in 0.0004525 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.960266 seconds.
+  path: Assets/Enemies/Animations/Slime1/New Animation.anim
+  artifactKey: Guid(d615f768e8ba62847b1691345b5ba71c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Animations/Slime1/New Animation.anim using Guid(d615f768e8ba62847b1691345b5ba71c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bedf14fc8a9569534ea6e1d4a750e3ed') in 0.0013611 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.350773 seconds.
+  path: Assets/Enemies/Animations/Slime1/idle_down.anim
+  artifactKey: Guid(d615f768e8ba62847b1691345b5ba71c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Animations/Slime1/idle_down.anim using Guid(d615f768e8ba62847b1691345b5ba71c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e9b33b096839d71185ed12b18f8df5f5') in 0.0015745 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.900789 seconds.
+  path: Assets/Enemies/Animations/Slime1/Slime1_Idle_full_0.controller
+  artifactKey: Guid(a75f602f81a99b4468e5a9326687b523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Animations/Slime1/Slime1_Idle_full_0.controller using Guid(a75f602f81a99b4468e5a9326687b523) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '93457db2dad451c28f160a61881075ec') in 0.002731 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 116.079262 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Run
+  artifactKey: Guid(c6d03d0eff6dce14da30e376cf7ab496) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Run using Guid(c6d03d0eff6dce14da30e376cf7ab496) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '36f2956f3f58835e845c5925c95570f1') in 0.0004846 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067105 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Run/Slime1_Run_body.png
+  artifactKey: Guid(03d06fadeb1012d4486ba609b1e19143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Run/Slime1_Run_body.png using Guid(03d06fadeb1012d4486ba609b1e19143) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '26e499b020e86cd9e3e405913433c10c') in 0.1578368 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 44
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Run/Slime1_Run_shadow.png
+  artifactKey: Guid(595e72135be8d664cae616f52aa70d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Run/Slime1_Run_shadow.png using Guid(595e72135be8d664cae616f52aa70d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9c4b425cc477fe88bbf633ba7bba96e3') in 0.0956675 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.169119 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Walk
+  artifactKey: Guid(9937f4d84bfdbdf4dbb2ebd6a9a1e407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Walk using Guid(9937f4d84bfdbdf4dbb2ebd6a9a1e407) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a4dbebb4a9f89b415abda77300b407b6') in 0.0006259 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.107841 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Walk/Slime1_Walk_body.png
+  artifactKey: Guid(419de49a0a0bece48955406c39d154c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Walk/Slime1_Walk_body.png using Guid(419de49a0a0bece48955406c39d154c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '664600297708f99a94193a2b9ddec6b5') in 0.1538023 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
+========================================================================
+Received Import Request.
+  Time since last request: 4124.916612 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Walk/Slime1_Walk_full.png
+  artifactKey: Guid(8e9e6a86ee933074eafc6174fb1432c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Walk/Slime1_Walk_full.png using Guid(8e9e6a86ee933074eafc6174fb1432c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '09e84370efe0c1289f01cf150c53c30d') in 0.1537294 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 208.233882 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Walk/Slime1_Walk_full.png
+  artifactKey: Guid(8e9e6a86ee933074eafc6174fb1432c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Walk/Slime1_Walk_full.png using Guid(8e9e6a86ee933074eafc6174fb1432c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '28c4507ddd9ef4b0fa851a26b74e6f0a') in 0.102347 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.901057 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Run/Slime1_Run_full.png
+  artifactKey: Guid(25cad04c2b9b5b0489aff29a6f84c81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Run/Slime1_Run_full.png using Guid(25cad04c2b9b5b0489aff29a6f84c81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6018962b82bcd75b7e87218f58a04c8c') in 0.1513961 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 44
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.482669 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Run/Slime1_Run_full.png
+  artifactKey: Guid(25cad04c2b9b5b0489aff29a6f84c81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Run/Slime1_Run_full.png using Guid(25cad04c2b9b5b0489aff29a6f84c81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f5aff9d0f2d18c18a3c82a398c9a7f36') in 0.1047341 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.793925 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Attack
+  artifactKey: Guid(9c5187c546a96bf49b2fd1d4d88dcaa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Attack using Guid(9c5187c546a96bf49b2fd1d4d88dcaa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b4b10e9a7b2744fd653f6c4f04da2be8') in 0.000588 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.357633 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Attack/Slime1_Attack_body.png
+  artifactKey: Guid(45a3ccb3b098aea44a3e90b2ae4dd89a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Attack/Slime1_Attack_body.png using Guid(45a3ccb3b098aea44a3e90b2ae4dd89a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd5881ce365623ec2c98d14e9cb1898df') in 0.4366418 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 112
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.927245 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Attack/Slime1_Attack_full.png
+  artifactKey: Guid(6741eddbbdc26ca42846d50678202d08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Attack/Slime1_Attack_full.png using Guid(6741eddbbdc26ca42846d50678202d08) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '47b0e6cfd16a83a0d1943fd6e25e7dbc') in 0.3384941 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 108
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Attack/Slime1_Attack_shadow.png
+  artifactKey: Guid(dd50abb28791f3c48b64de17080cb3ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Attack/Slime1_Attack_shadow.png using Guid(dd50abb28791f3c48b64de17080cb3ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '39a77950e97a82ca674e1fe001cd3784') in 0.1360328 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.908869 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Idle/Slime1_Idle_body.png
+  artifactKey: Guid(4d25be2d8189017459b1f0280a140f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Idle/Slime1_Idle_body.png using Guid(4d25be2d8189017459b1f0280a140f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '94cf7464b4a7c8d3765e6f724949cafb') in 0.1023069 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.548171 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Death
+  artifactKey: Guid(f54131c7aa610674d957bf86b93d8b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Death using Guid(f54131c7aa610674d957bf86b93d8b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '99e6c5346ecb4cb7d2d0f30d836791d3') in 0.0005981 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051328 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Death/Slime1_Death_body.png
+  artifactKey: Guid(770c383a3f07feb46bcf8cf7dd91a739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Death/Slime1_Death_body.png using Guid(770c383a3f07feb46bcf8cf7dd91a739) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '81d3d56dcc70ac1ab7d97afe29eb1c69') in 0.2098852 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 62
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Death/Slime1_Death_shadow.png
+  artifactKey: Guid(56b78159f5bbfb14d90346f06432e900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Death/Slime1_Death_shadow.png using Guid(56b78159f5bbfb14d90346f06432e900) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '297c33edad80c0833692919bd1eaee4d') in 0.1252528 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.661424 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Death/Slime1_Death_full.png
+  artifactKey: Guid(3a1aed6e4c76d0744a840d9d6360e550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Death/Slime1_Death_full.png using Guid(3a1aed6e4c76d0744a840d9d6360e550) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '52d5452a637d7677b339a12cf959c929') in 0.2164642 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 62
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Death/Slime1_Death_shadow.png
+  artifactKey: Guid(56b78159f5bbfb14d90346f06432e900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Death/Slime1_Death_shadow.png using Guid(56b78159f5bbfb14d90346f06432e900) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '091320af8f299e6e9e50d9c650fc473b') in 0.1272182 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
+========================================================================
+Received Import Request.
+  Time since last request: 884.013312 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Death/Slime1_Death_full.png
+  artifactKey: Guid(3a1aed6e4c76d0744a840d9d6360e550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Death/Slime1_Death_full.png using Guid(3a1aed6e4c76d0744a840d9d6360e550) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9b63f5bfd0ec1a8a4472a29275c6f130') in 0.201202 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 62
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Death/Slime1_Death_shadow.png
+  artifactKey: Guid(56b78159f5bbfb14d90346f06432e900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Death/Slime1_Death_shadow.png using Guid(56b78159f5bbfb14d90346f06432e900) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0cb90d5b051b6f9917a9b8e2b1b0ab3') in 0.1321579 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.428039 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Hurt
+  artifactKey: Guid(be0608b579e857c44ab505afcf33e7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Hurt using Guid(be0608b579e857c44ab505afcf33e7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2975123769f91ae32457bbf99625cddf') in 0.0008871 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045760 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Hurt/Slime1_Hurt_body.png
+  artifactKey: Guid(bfb0ad1dc9281a74bbdd9670c8d39b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Hurt/Slime1_Hurt_body.png using Guid(bfb0ad1dc9281a74bbdd9670c8d39b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c41f3ebc7c13394a3e6a891a1b26d359') in 0.1096187 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Hurt/Slime1_Hurt_shadow.png
+  artifactKey: Guid(a5b34382680f62e4eaee89ad88fdbdf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Hurt/Slime1_Hurt_shadow.png using Guid(a5b34382680f62e4eaee89ad88fdbdf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8f703982d66d558ebc12ab3967bb1fa5') in 0.0744705 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.593969 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Hurt/Slime1_Hurt_body.png
+  artifactKey: Guid(bfb0ad1dc9281a74bbdd9670c8d39b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Hurt/Slime1_Hurt_body.png using Guid(bfb0ad1dc9281a74bbdd9670c8d39b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0fd5d44fbc72a9586c1cd4c889d30c7') in 0.0813204 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Hurt/Slime1_Hurt_shadow.png
+  artifactKey: Guid(a5b34382680f62e4eaee89ad88fdbdf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Hurt/Slime1_Hurt_shadow.png using Guid(a5b34382680f62e4eaee89ad88fdbdf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e7eeee5aa77e406bfcb0cc4ff495c9f4') in 0.0949438 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.289626 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Run/Slime1_Run_shadow.png
+  artifactKey: Guid(595e72135be8d664cae616f52aa70d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Run/Slime1_Run_shadow.png using Guid(595e72135be8d664cae616f52aa70d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8681ea6f1d387d3aa67eb322ef02f750') in 0.1066841 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Run/Slime1_Run_full.png
+  artifactKey: Guid(25cad04c2b9b5b0489aff29a6f84c81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Run/Slime1_Run_full.png using Guid(25cad04c2b9b5b0489aff29a6f84c81e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6ca29557e89dc9da800591bdae89d6e3') in 0.1243566 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.934929 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Walk/Slime1_Walk_body.png
+  artifactKey: Guid(419de49a0a0bece48955406c39d154c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Walk/Slime1_Walk_body.png using Guid(419de49a0a0bece48955406c39d154c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff861c973132b1e2e6f67d7833287dc2') in 0.1422351 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.671436 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Death/Slime1_Death_full.png
+  artifactKey: Guid(3a1aed6e4c76d0744a840d9d6360e550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Death/Slime1_Death_full.png using Guid(3a1aed6e4c76d0744a840d9d6360e550) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2adea836e38aaaab7bdb243277a20c75') in 0.1387582 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.078137 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Hurt/Slime1_Hurt_body.png
+  artifactKey: Guid(bfb0ad1dc9281a74bbdd9670c8d39b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Hurt/Slime1_Hurt_body.png using Guid(bfb0ad1dc9281a74bbdd9670c8d39b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '13e13138ec7197951702fdc25448c821') in 0.0689176 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Prepare
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 4.75 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5198 unused Assets / (1.9 MB). Loaded Objects now: 6324.
+Memory consumption went from 110.4 MB to 108.5 MB.
+Total: 89.788500 ms (FindLiveObjects: 1.059400 ms CreateObjectMapping: 1.333200 ms MarkObjects: 81.935900 ms  DeleteObjects: 5.457900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.444 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 1.64 ms, found 4 plugins.
+Assertion failed on expression: 'pred(*previous, *i)'
+Assertion failed on expression: 'pred(*previous, *i)'
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.183 seconds
+Domain Reload Profiling: 2628ms
+	BeginReloadAssembly (468ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (101ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (111ms)
+	RebuildCommonClasses (59ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (863ms)
+		LoadAssemblies (750ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (289ms)
+			TypeCache.Refresh (21ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (248ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1184ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1011ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (184ms)
+			ProcessInitializeOnLoadAttributes (630ms)
+			ProcessInitializeOnLoadMethodAttributes (186ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (28ms)
+Refreshing native plugins compatible for Editor in 2.07 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5210 unused Assets / (1.9 MB). Loaded Objects now: 6325.
+Memory consumption went from 109.7 MB to 107.9 MB.
+Total: 12.390100 ms (FindLiveObjects: 1.254000 ms CreateObjectMapping: 1.360600 ms MarkObjects: 7.319200 ms  DeleteObjects: 2.454800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 644.599737 seconds.
+  path: Assets/Player/Animations/Player.controller
+  artifactKey: Guid(e87db3bcecffbfe4db28d8473358ebc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/Player.controller using Guid(e87db3bcecffbfe4db28d8473358ebc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9848b9253b1dcaaee47dee8ee033fc41') in 0.0609706 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 130
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.755936 seconds.
+  path: Assets/Character/Spritesheets/With shadows/Die.png
+  artifactKey: Guid(28b86831da2b55a4bbbaf6b05d912147) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Character/Spritesheets/With shadows/Die.png using Guid(28b86831da2b55a4bbbaf6b05d912147) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dbde47daeb7d2b4c36c59211e1dcab8e') in 0.486787 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 122
 
 ========================================================================
 Received Import Request.
-  Time since last request: 416.580118 seconds.
-  path: Assets/Character/Spritesheets/With shadows/Melee2.png
-  artifactKey: Guid(ad94385a281d0904db802e35676ea770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Character/Spritesheets/With shadows/Melee2.png using Guid(ad94385a281d0904db802e35676ea770) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bc2819abf13b3eaa0b96c4dc3e2df2c2') in 0.8177896 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 122
+  Time since last request: 250.996354 seconds.
+  path: Assets/Player/Animations/Player.controller
+  artifactKey: Guid(e87db3bcecffbfe4db28d8473358ebc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/Player.controller using Guid(e87db3bcecffbfe4db28d8473358ebc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8cace9b54897e63157cae3534136e29b') in 0.0275248 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 146
 
+========================================================================
+Received Import Request.
+  Time since last request: 31.741559 seconds.
+  path: Assets/Player/Animations/Player.controller
+  artifactKey: Guid(e87db3bcecffbfe4db28d8473358ebc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Animations/Player.controller using Guid(e87db3bcecffbfe4db28d8473358ebc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f9c22b446c9756618ddda5508af5f85') in 0.0462592 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 146
+
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.135 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.92 ms, found 4 plugins.
+Assertion failed on expression: 'pred(*previous, *i)'
+Assertion failed on expression: 'pred(*previous, *i)'
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.309 seconds
+Domain Reload Profiling: 2444ms
+	BeginReloadAssembly (458ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (106ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (70ms)
+	RebuildCommonClasses (54ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (572ms)
+		LoadAssemblies (539ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (248ms)
+			TypeCache.Refresh (17ms)
+				TypeCache.ScanAssembly (2ms)
+			BuildScriptInfoCaches (210ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1309ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1069ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (206ms)
+			ProcessInitializeOnLoadAttributes (786ms)
+			ProcessInitializeOnLoadMethodAttributes (63ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (29ms)
+Refreshing native plugins compatible for Editor in 2.36 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5211 unused Assets / (2.0 MB). Loaded Objects now: 6331.
+Memory consumption went from 109.2 MB to 107.3 MB.
+Total: 12.143700 ms (FindLiveObjects: 0.699600 ms CreateObjectMapping: 1.074500 ms MarkObjects: 7.709500 ms  DeleteObjects: 2.658700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.919 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.36 ms, found 4 plugins.
+Assertion failed on expression: 'pred(*previous, *i)'
+Assertion failed on expression: 'pred(*previous, *i)'
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.117 seconds
+Domain Reload Profiling: 2037ms
+	BeginReloadAssembly (317ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (57ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (52ms)
+	RebuildCommonClasses (59ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (497ms)
+		LoadAssemblies (430ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (217ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (194ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1117ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (938ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (180ms)
+			ProcessInitializeOnLoadAttributes (700ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (22ms)
+Refreshing native plugins compatible for Editor in 2.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5211 unused Assets / (2.0 MB). Loaded Objects now: 6333.
+Memory consumption went from 109.9 MB to 107.9 MB.
+Total: 9.401600 ms (FindLiveObjects: 0.653700 ms CreateObjectMapping: 0.889600 ms MarkObjects: 6.033900 ms  DeleteObjects: 1.822700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.825 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.36 ms, found 4 plugins.
+Assertion failed on expression: 'pred(*previous, *i)'
+Assertion failed on expression: 'pred(*previous, *i)'
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.047 seconds
+Domain Reload Profiling: 1873ms
+	BeginReloadAssembly (278ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (47ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (451ms)
+		LoadAssemblies (372ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (197ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (174ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1048ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (857ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (168ms)
+			ProcessInitializeOnLoadAttributes (628ms)
+			ProcessInitializeOnLoadMethodAttributes (50ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (26ms)
+Refreshing native plugins compatible for Editor in 2.90 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5211 unused Assets / (1.5 MB). Loaded Objects now: 6335.
+Memory consumption went from 110.5 MB to 109.1 MB.
+Total: 12.163900 ms (FindLiveObjects: 0.703500 ms CreateObjectMapping: 1.184300 ms MarkObjects: 7.807600 ms  DeleteObjects: 2.467000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 276.589070 seconds.
+  path: Assets/Enemies/Animations/Slime1/Slime1_Idle_full_0.controller
+  artifactKey: Guid(a75f602f81a99b4468e5a9326687b523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Animations/Slime1/Slime1_Idle_full_0.controller using Guid(a75f602f81a99b4468e5a9326687b523) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b317088fde1bb3658df58366877d6e2e') in 0.0346245 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.879 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.74 ms, found 4 plugins.
+Assertion failed on expression: 'pred(*previous, *i)'
+Assertion failed on expression: 'pred(*previous, *i)'
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.187 seconds
+Domain Reload Profiling: 2067ms
+	BeginReloadAssembly (288ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (45ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (62ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (494ms)
+		LoadAssemblies (401ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (216ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (189ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1188ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1005ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (183ms)
+			ProcessInitializeOnLoadAttributes (751ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (30ms)
+Refreshing native plugins compatible for Editor in 2.05 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5211 unused Assets / (1.6 MB). Loaded Objects now: 6337.
+Memory consumption went from 109.3 MB to 107.7 MB.
+Total: 11.831100 ms (FindLiveObjects: 0.900700 ms CreateObjectMapping: 1.654800 ms MarkObjects: 6.404800 ms  DeleteObjects: 2.869300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 72.842362 seconds.
+  path: Assets/Enemies/Spritemaps/PNG/Slime1/Walk/Slime1_Walk_full.png
+  artifactKey: Guid(8e9e6a86ee933074eafc6174fb1432c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enemies/Spritemaps/PNG/Slime1/Walk/Slime1_Walk_full.png using Guid(8e9e6a86ee933074eafc6174fb1432c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '77a076aefb2c666e38fe9d167c7282a7') in 0.1990712 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Prepare
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.924 seconds
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 2.38 ms, found 4 plugins.
+Assertion failed on expression: 'pred(*previous, *i)'
+Assertion failed on expression: 'pred(*previous, *i)'
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.207 seconds
+Domain Reload Profiling: 2132ms
+	BeginReloadAssembly (322ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (64ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (58ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (500ms)
+		LoadAssemblies (432ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (211ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (188ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1208ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1014ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (178ms)
+			ProcessInitializeOnLoadAttributes (767ms)
+			ProcessInitializeOnLoadMethodAttributes (60ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (28ms)
+Refreshing native plugins compatible for Editor in 3.33 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5211 unused Assets / (2.0 MB). Loaded Objects now: 6339.
+Memory consumption went from 109.6 MB to 107.6 MB.
+Total: 13.778000 ms (FindLiveObjects: 0.737400 ms CreateObjectMapping: 1.501700 ms MarkObjects: 8.878000 ms  DeleteObjects: 2.659300 ms)
+
+Prepare: number of updated asset objects reloaded= 0

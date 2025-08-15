@@ -469,6 +469,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -476,10 +489,10 @@ TextureImporter:
       name: Rolling_0
       rect:
         serializedVersion: 2
-        x: 48
-        y: 922
-        width: 52
-        height: 65
+        x: 0
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -498,10 +511,10 @@ TextureImporter:
       name: Rolling_1
       rect:
         serializedVersion: 2
-        x: 166
-        y: 924
-        width: 64
-        height: 61
+        x: 128
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -520,10 +533,10 @@ TextureImporter:
       name: Rolling_2
       rect:
         serializedVersion: 2
-        x: 298
-        y: 923
-        width: 70
-        height: 55
+        x: 256
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -542,10 +555,10 @@ TextureImporter:
       name: Rolling_3
       rect:
         serializedVersion: 2
-        x: 424
-        y: 926
-        width: 77
-        height: 44
+        x: 384
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -564,10 +577,10 @@ TextureImporter:
       name: Rolling_4
       rect:
         serializedVersion: 2
-        x: 558
-        y: 927
-        width: 78
-        height: 38
+        x: 512
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -586,10 +599,10 @@ TextureImporter:
       name: Rolling_5
       rect:
         serializedVersion: 2
-        x: 684
-        y: 927
-        width: 75
-        height: 41
+        x: 640
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -608,10 +621,10 @@ TextureImporter:
       name: Rolling_6
       rect:
         serializedVersion: 2
-        x: 816
-        y: 927
-        width: 62
-        height: 46
+        x: 768
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -630,10 +643,10 @@ TextureImporter:
       name: Rolling_7
       rect:
         serializedVersion: 2
-        x: 961
-        y: 927
-        width: 43
-        height: 54
+        x: 896
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -652,10 +665,10 @@ TextureImporter:
       name: Rolling_8
       rect:
         serializedVersion: 2
-        x: 1094
-        y: 926
-        width: 45
-        height: 50
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -674,10 +687,10 @@ TextureImporter:
       name: Rolling_9
       rect:
         serializedVersion: 2
-        x: 1222
-        y: 921
-        width: 57
-        height: 51
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -696,10 +709,10 @@ TextureImporter:
       name: Rolling_10
       rect:
         serializedVersion: 2
-        x: 1345
-        y: 919
-        width: 53
-        height: 49
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -718,10 +731,10 @@ TextureImporter:
       name: Rolling_11
       rect:
         serializedVersion: 2
-        x: 1459
-        y: 917
-        width: 59
-        height: 48
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -740,10 +753,10 @@ TextureImporter:
       name: Rolling_12
       rect:
         serializedVersion: 2
-        x: 1582
-        y: 912
-        width: 52
-        height: 58
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,10 +775,10 @@ TextureImporter:
       name: Rolling_13
       rect:
         serializedVersion: 2
-        x: 1712
-        y: 915
-        width: 49
-        height: 63
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -784,10 +797,10 @@ TextureImporter:
       name: Rolling_14
       rect:
         serializedVersion: 2
-        x: 1840
-        y: 921
-        width: 48
-        height: 64
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -806,10 +819,10 @@ TextureImporter:
       name: Rolling_15
       rect:
         serializedVersion: 2
-        x: 54
-        y: 786
-        width: 35
-        height: 73
+        x: 0
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -828,10 +841,10 @@ TextureImporter:
       name: Rolling_16
       rect:
         serializedVersion: 2
-        x: 173
-        y: 784
-        width: 61
-        height: 66
+        x: 128
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -850,10 +863,10 @@ TextureImporter:
       name: Rolling_17
       rect:
         serializedVersion: 2
-        x: 307
-        y: 779
-        width: 70
-        height: 56
+        x: 256
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -872,10 +885,10 @@ TextureImporter:
       name: Rolling_18
       rect:
         serializedVersion: 2
-        x: 435
-        y: 776
-        width: 66
-        height: 54
+        x: 384
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -894,10 +907,10 @@ TextureImporter:
       name: Rolling_19
       rect:
         serializedVersion: 2
-        x: 560
-        y: 777
-        width: 62
-        height: 57
+        x: 512
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -916,10 +929,10 @@ TextureImporter:
       name: Rolling_20
       rect:
         serializedVersion: 2
-        x: 689
-        y: 781
-        width: 64
-        height: 54
+        x: 640
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -938,10 +951,10 @@ TextureImporter:
       name: Rolling_21
       rect:
         serializedVersion: 2
-        x: 821
-        y: 783
-        width: 56
-        height: 56
+        x: 768
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -960,10 +973,10 @@ TextureImporter:
       name: Rolling_22
       rect:
         serializedVersion: 2
-        x: 961
-        y: 784
-        width: 52
-        height: 56
+        x: 896
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -982,10 +995,10 @@ TextureImporter:
       name: Rolling_23
       rect:
         serializedVersion: 2
-        x: 1091
-        y: 783
-        width: 48
-        height: 45
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1004,10 +1017,10 @@ TextureImporter:
       name: Rolling_24
       rect:
         serializedVersion: 2
-        x: 1218
-        y: 773
-        width: 47
-        height: 53
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1026,10 +1039,10 @@ TextureImporter:
       name: Rolling_25
       rect:
         serializedVersion: 2
-        x: 1345
-        y: 773
-        width: 44
-        height: 55
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1048,10 +1061,10 @@ TextureImporter:
       name: Rolling_26
       rect:
         serializedVersion: 2
-        x: 1471
-        y: 779
-        width: 40
-        height: 51
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1070,10 +1083,10 @@ TextureImporter:
       name: Rolling_27
       rect:
         serializedVersion: 2
-        x: 1498
-        y: 789
-        width: 15
-        height: 8
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1092,10 +1105,10 @@ TextureImporter:
       name: Rolling_28
       rect:
         serializedVersion: 2
-        x: 1587
-        y: 784
-        width: 40
-        height: 60
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1114,10 +1127,10 @@ TextureImporter:
       name: Rolling_29
       rect:
         serializedVersion: 2
-        x: 1716
-        y: 784
-        width: 44
-        height: 68
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1136,10 +1149,10 @@ TextureImporter:
       name: Rolling_30
       rect:
         serializedVersion: 2
-        x: 1849
-        y: 786
-        width: 33
-        height: 71
+        x: 0
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1158,10 +1171,10 @@ TextureImporter:
       name: Rolling_31
       rect:
         serializedVersion: 2
-        x: 49
-        y: 653
-        width: 46
-        height: 73
+        x: 128
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1180,10 +1193,10 @@ TextureImporter:
       name: Rolling_32
       rect:
         serializedVersion: 2
-        x: 179
-        y: 651
-        width: 52
-        height: 60
+        x: 256
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1202,10 +1215,10 @@ TextureImporter:
       name: Rolling_33
       rect:
         serializedVersion: 2
-        x: 306
-        y: 644
-        width: 51
-        height: 54
+        x: 384
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1224,10 +1237,10 @@ TextureImporter:
       name: Rolling_34
       rect:
         serializedVersion: 2
-        x: 437
-        y: 641
-        width: 48
-        height: 62
+        x: 512
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1246,10 +1259,10 @@ TextureImporter:
       name: Rolling_35
       rect:
         serializedVersion: 2
-        x: 567
-        y: 639
-        width: 40
-        height: 63
+        x: 640
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1268,10 +1281,10 @@ TextureImporter:
       name: Rolling_36
       rect:
         serializedVersion: 2
-        x: 696
-        y: 639
-        width: 46
-        height: 64
+        x: 768
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1290,10 +1303,10 @@ TextureImporter:
       name: Rolling_37
       rect:
         serializedVersion: 2
-        x: 823
-        y: 645
-        width: 37
-        height: 65
+        x: 896
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1312,10 +1325,10 @@ TextureImporter:
       name: Rolling_38
       rect:
         serializedVersion: 2
-        x: 950
-        y: 646
-        width: 43
-        height: 61
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1334,10 +1347,10 @@ TextureImporter:
       name: Rolling_39
       rect:
         serializedVersion: 2
-        x: 1078
-        y: 642
-        width: 43
-        height: 53
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1356,10 +1369,10 @@ TextureImporter:
       name: Rolling_40
       rect:
         serializedVersion: 2
-        x: 1198
-        y: 639
-        width: 50
-        height: 46
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1378,10 +1391,10 @@ TextureImporter:
       name: Rolling_41
       rect:
         serializedVersion: 2
-        x: 1323
+        x: 1408
         y: 640
-        width: 49
-        height: 55
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1400,10 +1413,10 @@ TextureImporter:
       name: Rolling_42
       rect:
         serializedVersion: 2
-        x: 1448
-        y: 645
-        width: 46
-        height: 50
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1422,10 +1435,10 @@ TextureImporter:
       name: Rolling_43
       rect:
         serializedVersion: 2
-        x: 1570
-        y: 654
-        width: 50
-        height: 55
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1444,10 +1457,10 @@ TextureImporter:
       name: Rolling_44
       rect:
         serializedVersion: 2
-        x: 1702
-        y: 656
-        width: 48
-        height: 63
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1466,10 +1479,10 @@ TextureImporter:
       name: Rolling_45
       rect:
         serializedVersion: 2
-        x: 1839
-        y: 656
-        width: 45
-        height: 66
+        x: 0
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1488,10 +1501,10 @@ TextureImporter:
       name: Rolling_46
       rect:
         serializedVersion: 2
-        x: 38
-        y: 533
-        width: 60
-        height: 62
+        x: 128
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1510,10 +1523,10 @@ TextureImporter:
       name: Rolling_47
       rect:
         serializedVersion: 2
-        x: 161
-        y: 521
-        width: 49
-        height: 57
+        x: 256
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1532,10 +1545,10 @@ TextureImporter:
       name: Rolling_48
       rect:
         serializedVersion: 2
-        x: 283
-        y: 511
-        width: 57
-        height: 61
+        x: 384
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1554,10 +1567,10 @@ TextureImporter:
       name: Rolling_49
       rect:
         serializedVersion: 2
-        x: 407
+        x: 512
         y: 512
-        width: 64
-        height: 58
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1576,10 +1589,10 @@ TextureImporter:
       name: Rolling_50
       rect:
         serializedVersion: 2
-        x: 536
-        y: 516
-        width: 63
-        height: 53
+        x: 640
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1598,10 +1611,10 @@ TextureImporter:
       name: Rolling_51
       rect:
         serializedVersion: 2
-        x: 668
-        y: 515
-        width: 55
-        height: 58
+        x: 768
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1620,10 +1633,10 @@ TextureImporter:
       name: Rolling_52
       rect:
         serializedVersion: 2
-        x: 800
-        y: 518
-        width: 50
-        height: 61
+        x: 896
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1642,10 +1655,10 @@ TextureImporter:
       name: Rolling_53
       rect:
         serializedVersion: 2
-        x: 930
+        x: 1024
         y: 512
-        width: 39
-        height: 66
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1664,10 +1677,10 @@ TextureImporter:
       name: Rolling_54
       rect:
         serializedVersion: 2
-        x: 1056
-        y: 515
-        width: 41
-        height: 56
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1686,10 +1699,10 @@ TextureImporter:
       name: Rolling_55
       rect:
         serializedVersion: 2
-        x: 1170
-        y: 515
-        width: 52
-        height: 52
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1708,10 +1721,10 @@ TextureImporter:
       name: Rolling_56
       rect:
         serializedVersion: 2
-        x: 1298
-        y: 518
-        width: 60
-        height: 48
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1730,10 +1743,10 @@ TextureImporter:
       name: Rolling_57
       rect:
         serializedVersion: 2
-        x: 1434
-        y: 521
-        width: 62
-        height: 47
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1752,10 +1765,10 @@ TextureImporter:
       name: Rolling_58
       rect:
         serializedVersion: 2
-        x: 1569
-        y: 529
-        width: 57
-        height: 47
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1774,10 +1787,10 @@ TextureImporter:
       name: Rolling_59
       rect:
         serializedVersion: 2
-        x: 1697
-        y: 527
-        width: 58
-        height: 55
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1796,10 +1809,10 @@ TextureImporter:
       name: Rolling_60
       rect:
         serializedVersion: 2
-        x: 1829
-        y: 533
-        width: 58
-        height: 55
+        x: 0
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1818,10 +1831,10 @@ TextureImporter:
       name: Rolling_61
       rect:
         serializedVersion: 2
-        x: 30
-        y: 401
-        width: 53
-        height: 65
+        x: 128
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1840,10 +1853,10 @@ TextureImporter:
       name: Rolling_62
       rect:
         serializedVersion: 2
-        x: 155
-        y: 395
-        width: 62
-        height: 63
+        x: 256
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1862,10 +1875,10 @@ TextureImporter:
       name: Rolling_63
       rect:
         serializedVersion: 2
-        x: 272
-        y: 396
-        width: 69
-        height: 58
+        x: 384
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1884,10 +1897,10 @@ TextureImporter:
       name: Rolling_64
       rect:
         serializedVersion: 2
-        x: 396
-        y: 396
-        width: 76
-        height: 53
+        x: 512
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1906,10 +1919,10 @@ TextureImporter:
       name: Rolling_65
       rect:
         serializedVersion: 2
-        x: 516
-        y: 399
-        width: 78
-        height: 48
+        x: 640
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1928,10 +1941,10 @@ TextureImporter:
       name: Rolling_66
       rect:
         serializedVersion: 2
-        x: 648
-        y: 395
-        width: 76
-        height: 51
+        x: 768
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1950,10 +1963,10 @@ TextureImporter:
       name: Rolling_67
       rect:
         serializedVersion: 2
-        x: 786
-        y: 403
-        width: 64
-        height: 44
+        x: 896
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1972,10 +1985,10 @@ TextureImporter:
       name: Rolling_68
       rect:
         serializedVersion: 2
-        x: 915
-        y: 399
-        width: 46
-        height: 53
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1994,10 +2007,10 @@ TextureImporter:
       name: Rolling_69
       rect:
         serializedVersion: 2
-        x: 1039
-        y: 400
-        width: 42
-        height: 54
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2016,10 +2029,10 @@ TextureImporter:
       name: Rolling_70
       rect:
         serializedVersion: 2
-        x: 1153
-        y: 400
-        width: 56
-        height: 52
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2038,10 +2051,10 @@ TextureImporter:
       name: Rolling_71
       rect:
         serializedVersion: 2
-        x: 1290
-        y: 399
-        width: 53
-        height: 54
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2060,10 +2073,10 @@ TextureImporter:
       name: Rolling_72
       rect:
         serializedVersion: 2
-        x: 1425
-        y: 406
-        width: 60
-        height: 43
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2082,10 +2095,10 @@ TextureImporter:
       name: Rolling_73
       rect:
         serializedVersion: 2
-        x: 1567
-        y: 408
-        width: 52
-        height: 49
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2104,10 +2117,10 @@ TextureImporter:
       name: Rolling_74
       rect:
         serializedVersion: 2
-        x: 1698
-        y: 407
-        width: 49
-        height: 53
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2126,10 +2139,10 @@ TextureImporter:
       name: Rolling_75
       rect:
         serializedVersion: 2
-        x: 1825
-        y: 403
-        width: 50
-        height: 61
+        x: 0
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2148,10 +2161,10 @@ TextureImporter:
       name: Rolling_76
       rect:
         serializedVersion: 2
-        x: 41
-        y: 271
-        width: 33
-        height: 73
+        x: 128
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2170,10 +2183,10 @@ TextureImporter:
       name: Rolling_77
       rect:
         serializedVersion: 2
-        x: 152
-        y: 281
-        width: 59
-        height: 57
+        x: 256
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2192,10 +2205,10 @@ TextureImporter:
       name: Rolling_78
       rect:
         serializedVersion: 2
-        x: 263
-        y: 279
-        width: 70
-        height: 57
+        x: 384
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2214,10 +2227,10 @@ TextureImporter:
       name: Rolling_79
       rect:
         serializedVersion: 2
-        x: 395
-        y: 277
-        width: 66
-        height: 60
+        x: 512
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2236,10 +2249,10 @@ TextureImporter:
       name: Rolling_80
       rect:
         serializedVersion: 2
-        x: 529
-        y: 278
-        width: 63
-        height: 54
+        x: 640
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2258,10 +2271,10 @@ TextureImporter:
       name: Rolling_81
       rect:
         serializedVersion: 2
-        x: 655
-        y: 280
-        width: 64
-        height: 49
+        x: 768
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2280,10 +2293,10 @@ TextureImporter:
       name: Rolling_82
       rect:
         serializedVersion: 2
-        x: 787
-        y: 281
-        width: 57
-        height: 47
+        x: 896
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2302,10 +2315,10 @@ TextureImporter:
       name: Rolling_83
       rect:
         serializedVersion: 2
-        x: 907
-        y: 289
-        width: 53
-        height: 43
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2324,10 +2337,10 @@ TextureImporter:
       name: Rolling_84
       rect:
         serializedVersion: 2
-        x: 1040
-        y: 288
-        width: 45
-        height: 51
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2346,10 +2359,10 @@ TextureImporter:
       name: Rolling_85
       rect:
         serializedVersion: 2
-        x: 1167
-        y: 290
-        width: 48
-        height: 52
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2368,10 +2381,10 @@ TextureImporter:
       name: Rolling_86
       rect:
         serializedVersion: 2
-        x: 1300
-        y: 280
-        width: 44
-        height: 59
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2390,10 +2403,10 @@ TextureImporter:
       name: Rolling_87
       rect:
         serializedVersion: 2
-        x: 1431
-        y: 277
-        width: 42
-        height: 52
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2412,10 +2425,10 @@ TextureImporter:
       name: Rolling_88
       rect:
         serializedVersion: 2
-        x: 1573
-        y: 276
-        width: 41
-        height: 59
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2434,10 +2447,10 @@ TextureImporter:
       name: Rolling_89
       rect:
         serializedVersion: 2
-        x: 1696
-        y: 276
-        width: 43
-        height: 64
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2456,10 +2469,10 @@ TextureImporter:
       name: Rolling_90
       rect:
         serializedVersion: 2
-        x: 1834
-        y: 273
-        width: 31
-        height: 71
+        x: 0
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2478,10 +2491,10 @@ TextureImporter:
       name: Rolling_91
       rect:
         serializedVersion: 2
-        x: 37
-        y: 153
-        width: 45
-        height: 65
+        x: 128
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2500,10 +2513,10 @@ TextureImporter:
       name: Rolling_92
       rect:
         serializedVersion: 2
-        x: 156
-        y: 148
-        width: 51
-        height: 69
+        x: 256
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2522,10 +2535,10 @@ TextureImporter:
       name: Rolling_93
       rect:
         serializedVersion: 2
-        x: 284
-        y: 151
-        width: 51
-        height: 64
+        x: 384
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2544,10 +2557,10 @@ TextureImporter:
       name: Rolling_94
       rect:
         serializedVersion: 2
-        x: 411
-        y: 149
-        width: 49
-        height: 66
+        x: 512
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2566,10 +2579,10 @@ TextureImporter:
       name: Rolling_95
       rect:
         serializedVersion: 2
-        x: 545
-        y: 153
-        width: 41
-        height: 62
+        x: 640
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2588,10 +2601,10 @@ TextureImporter:
       name: Rolling_96
       rect:
         serializedVersion: 2
-        x: 666
-        y: 152
-        width: 47
-        height: 59
+        x: 768
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2610,10 +2623,10 @@ TextureImporter:
       name: Rolling_97
       rect:
         serializedVersion: 2
-        x: 805
-        y: 154
-        width: 37
-        height: 60
+        x: 896
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2632,10 +2645,10 @@ TextureImporter:
       name: Rolling_98
       rect:
         serializedVersion: 2
-        x: 928
-        y: 166
-        width: 42
-        height: 51
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2654,10 +2667,10 @@ TextureImporter:
       name: Rolling_99
       rect:
         serializedVersion: 2
-        x: 1054
-        y: 171
-        width: 44
-        height: 52
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2676,10 +2689,10 @@ TextureImporter:
       name: Rolling_100
       rect:
         serializedVersion: 2
-        x: 1187
-        y: 170
-        width: 47
-        height: 53
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2698,10 +2711,10 @@ TextureImporter:
       name: Rolling_101
       rect:
         serializedVersion: 2
-        x: 1318
-        y: 166
-        width: 47
-        height: 46
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2720,10 +2733,10 @@ TextureImporter:
       name: Rolling_102
       rect:
         serializedVersion: 2
-        x: 1450
-        y: 157
-        width: 46
-        height: 47
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2742,10 +2755,10 @@ TextureImporter:
       name: Rolling_103
       rect:
         serializedVersion: 2
-        x: 1582
-        y: 153
-        width: 49
-        height: 58
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2764,10 +2777,10 @@ TextureImporter:
       name: Rolling_104
       rect:
         serializedVersion: 2
-        x: 1709
-        y: 153
-        width: 46
-        height: 62
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2786,10 +2799,10 @@ TextureImporter:
       name: Rolling_105
       rect:
         serializedVersion: 2
-        x: 1832
-        y: 154
-        width: 44
-        height: 64
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2808,10 +2821,10 @@ TextureImporter:
       name: Rolling_106
       rect:
         serializedVersion: 2
-        x: 33
-        y: 31
-        width: 60
-        height: 61
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2830,10 +2843,10 @@ TextureImporter:
       name: Rolling_107
       rect:
         serializedVersion: 2
-        x: 173
-        y: 24
-        width: 51
-        height: 68
+        x: 256
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2852,10 +2865,10 @@ TextureImporter:
       name: Rolling_108
       rect:
         serializedVersion: 2
-        x: 299
-        y: 29
-        width: 60
-        height: 60
+        x: 384
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2874,10 +2887,10 @@ TextureImporter:
       name: Rolling_109
       rect:
         serializedVersion: 2
-        x: 425
-        y: 29
-        width: 65
-        height: 56
+        x: 512
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2896,10 +2909,10 @@ TextureImporter:
       name: Rolling_110
       rect:
         serializedVersion: 2
-        x: 553
-        y: 26
-        width: 63
-        height: 58
+        x: 640
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2918,10 +2931,10 @@ TextureImporter:
       name: Rolling_111
       rect:
         serializedVersion: 2
-        x: 686
-        y: 27
-        width: 53
-        height: 54
+        x: 768
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2940,10 +2953,10 @@ TextureImporter:
       name: Rolling_112
       rect:
         serializedVersion: 2
-        x: 815
-        y: 30
-        width: 49
-        height: 56
+        x: 896
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2962,10 +2975,10 @@ TextureImporter:
       name: Rolling_113
       rect:
         serializedVersion: 2
-        x: 954
-        y: 39
-        width: 36
-        height: 54
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2984,10 +2997,10 @@ TextureImporter:
       name: Rolling_114
       rect:
         serializedVersion: 2
-        x: 1079
-        y: 40
-        width: 41
-        height: 55
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3006,10 +3019,10 @@ TextureImporter:
       name: Rolling_115
       rect:
         serializedVersion: 2
-        x: 1210
-        y: 39
-        width: 53
-        height: 46
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3028,10 +3041,10 @@ TextureImporter:
       name: Rolling_116
       rect:
         serializedVersion: 2
-        x: 1329
-        y: 38
-        width: 61
-        height: 45
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3050,10 +3063,10 @@ TextureImporter:
       name: Rolling_117
       rect:
         serializedVersion: 2
-        x: 1448
-        y: 37
-        width: 62
-        height: 38
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3072,10 +3085,10 @@ TextureImporter:
       name: Rolling_118
       rect:
         serializedVersion: 2
-        x: 1575
-        y: 28
-        width: 57
-        height: 52
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3094,10 +3107,10 @@ TextureImporter:
       name: Rolling_119
       rect:
         serializedVersion: 2
-        x: 1704
-        y: 30
-        width: 56
-        height: 52
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3112,33 +3125,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Rolling_120
-      rect:
-        serializedVersion: 2
-        x: 1828
-        y: 32
-        width: 56
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2dcdd02303edadaa0800000000000000
-      internalID: -6135347243759313710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d9d643ebce26ca54ab8466797cc29ce6
     internalID: 0
     vertices: []
     indices: 
@@ -3146,7 +3137,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Rolling_0: -725676847703976320
       Rolling_1: 2804552036436801705
@@ -3173,7 +3166,6 @@ TextureImporter:
       Rolling_118: -6225487169514623766
       Rolling_119: 4327560353326864228
       Rolling_12: -5842034905591963187
-      Rolling_120: -6135347243759313710
       Rolling_13: -3221273882454254805
       Rolling_14: -930069001885914268
       Rolling_15: 3648973524908400381

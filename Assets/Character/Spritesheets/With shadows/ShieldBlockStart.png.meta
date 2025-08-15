@@ -466,6 +466,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -473,10 +486,10 @@ TextureImporter:
       name: ShieldBlockStart_0
       rect:
         serializedVersion: 2
-        x: 44
-        y: 917
-        width: 49
-        height: 61
+        x: 0
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -495,10 +508,10 @@ TextureImporter:
       name: ShieldBlockStart_1
       rect:
         serializedVersion: 2
-        x: 172
-        y: 917
-        width: 50
-        height: 60
+        x: 128
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -517,10 +530,10 @@ TextureImporter:
       name: ShieldBlockStart_2
       rect:
         serializedVersion: 2
-        x: 300
-        y: 916
-        width: 50
-        height: 61
+        x: 256
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -539,10 +552,10 @@ TextureImporter:
       name: ShieldBlockStart_3
       rect:
         serializedVersion: 2
-        x: 428
-        y: 916
-        width: 50
-        height: 63
+        x: 384
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -561,10 +574,10 @@ TextureImporter:
       name: ShieldBlockStart_4
       rect:
         serializedVersion: 2
-        x: 556
-        y: 917
-        width: 54
-        height: 63
+        x: 512
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -583,10 +596,10 @@ TextureImporter:
       name: ShieldBlockStart_5
       rect:
         serializedVersion: 2
-        x: 683
-        y: 917
-        width: 58
-        height: 63
+        x: 640
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -605,10 +618,10 @@ TextureImporter:
       name: ShieldBlockStart_6
       rect:
         serializedVersion: 2
-        x: 809
-        y: 915
-        width: 63
-        height: 62
+        x: 768
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -627,10 +640,10 @@ TextureImporter:
       name: ShieldBlockStart_7
       rect:
         serializedVersion: 2
-        x: 936
-        y: 913
-        width: 66
-        height: 62
+        x: 896
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -649,10 +662,10 @@ TextureImporter:
       name: ShieldBlockStart_8
       rect:
         serializedVersion: 2
-        x: 1061
-        y: 912
-        width: 69
-        height: 62
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -671,10 +684,10 @@ TextureImporter:
       name: ShieldBlockStart_9
       rect:
         serializedVersion: 2
-        x: 1187
-        y: 911
-        width: 70
-        height: 61
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -693,10 +706,10 @@ TextureImporter:
       name: ShieldBlockStart_10
       rect:
         serializedVersion: 2
-        x: 1315
-        y: 911
-        width: 70
-        height: 64
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -715,10 +728,10 @@ TextureImporter:
       name: ShieldBlockStart_11
       rect:
         serializedVersion: 2
-        x: 1443
-        y: 909
-        width: 69
-        height: 66
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -737,10 +750,10 @@ TextureImporter:
       name: ShieldBlockStart_12
       rect:
         serializedVersion: 2
-        x: 1570
-        y: 909
-        width: 69
-        height: 67
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -759,10 +772,10 @@ TextureImporter:
       name: ShieldBlockStart_13
       rect:
         serializedVersion: 2
-        x: 1698
-        y: 908
-        width: 69
-        height: 68
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -781,10 +794,10 @@ TextureImporter:
       name: ShieldBlockStart_14
       rect:
         serializedVersion: 2
-        x: 1826
-        y: 908
-        width: 69
-        height: 67
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -803,10 +816,10 @@ TextureImporter:
       name: ShieldBlockStart_15
       rect:
         serializedVersion: 2
-        x: 39
-        y: 785
-        width: 54
-        height: 62
+        x: 0
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -825,10 +838,10 @@ TextureImporter:
       name: ShieldBlockStart_16
       rect:
         serializedVersion: 2
-        x: 167
-        y: 784
-        width: 53
-        height: 63
+        x: 128
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -847,10 +860,10 @@ TextureImporter:
       name: ShieldBlockStart_17
       rect:
         serializedVersion: 2
-        x: 295
-        y: 784
-        width: 53
-        height: 62
+        x: 256
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -869,10 +882,10 @@ TextureImporter:
       name: ShieldBlockStart_18
       rect:
         serializedVersion: 2
-        x: 424
-        y: 782
-        width: 52
-        height: 64
+        x: 384
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -891,10 +904,10 @@ TextureImporter:
       name: ShieldBlockStart_19
       rect:
         serializedVersion: 2
-        x: 552
-        y: 781
-        width: 57
-        height: 64
+        x: 512
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -913,10 +926,10 @@ TextureImporter:
       name: ShieldBlockStart_20
       rect:
         serializedVersion: 2
-        x: 679
-        y: 780
-        width: 61
-        height: 65
+        x: 640
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -935,10 +948,10 @@ TextureImporter:
       name: ShieldBlockStart_21
       rect:
         serializedVersion: 2
-        x: 805
-        y: 780
-        width: 63
-        height: 64
+        x: 768
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -957,10 +970,10 @@ TextureImporter:
       name: ShieldBlockStart_22
       rect:
         serializedVersion: 2
-        x: 933
-        y: 778
-        width: 62
-        height: 66
+        x: 896
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -979,10 +992,10 @@ TextureImporter:
       name: ShieldBlockStart_23
       rect:
         serializedVersion: 2
-        x: 1061
-        y: 777
-        width: 60
-        height: 67
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1001,10 +1014,10 @@ TextureImporter:
       name: ShieldBlockStart_24
       rect:
         serializedVersion: 2
-        x: 1190
-        y: 778
-        width: 57
-        height: 65
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1023,10 +1036,10 @@ TextureImporter:
       name: ShieldBlockStart_25
       rect:
         serializedVersion: 2
-        x: 1318
-        y: 778
-        width: 57
-        height: 65
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1045,10 +1058,10 @@ TextureImporter:
       name: ShieldBlockStart_26
       rect:
         serializedVersion: 2
-        x: 1445
-        y: 779
-        width: 58
-        height: 64
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1067,10 +1080,10 @@ TextureImporter:
       name: ShieldBlockStart_27
       rect:
         serializedVersion: 2
-        x: 1573
-        y: 779
-        width: 57
-        height: 63
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1089,10 +1102,10 @@ TextureImporter:
       name: ShieldBlockStart_28
       rect:
         serializedVersion: 2
-        x: 1701
-        y: 779
-        width: 59
-        height: 63
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1111,10 +1124,10 @@ TextureImporter:
       name: ShieldBlockStart_29
       rect:
         serializedVersion: 2
-        x: 1828
-        y: 779
-        width: 59
-        height: 62
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1133,10 +1146,10 @@ TextureImporter:
       name: ShieldBlockStart_30
       rect:
         serializedVersion: 2
-        x: 41
-        y: 659
-        width: 38
-        height: 63
+        x: 0
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1155,10 +1168,10 @@ TextureImporter:
       name: ShieldBlockStart_31
       rect:
         serializedVersion: 2
-        x: 169
-        y: 658
-        width: 38
-        height: 63
+        x: 128
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1177,10 +1190,10 @@ TextureImporter:
       name: ShieldBlockStart_32
       rect:
         serializedVersion: 2
-        x: 296
-        y: 658
-        width: 39
-        height: 63
+        x: 256
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1199,10 +1212,10 @@ TextureImporter:
       name: ShieldBlockStart_33
       rect:
         serializedVersion: 2
-        x: 424
-        y: 658
-        width: 40
-        height: 62
+        x: 384
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1221,10 +1234,10 @@ TextureImporter:
       name: ShieldBlockStart_34
       rect:
         serializedVersion: 2
-        x: 552
-        y: 655
-        width: 43
-        height: 65
+        x: 512
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1243,10 +1256,10 @@ TextureImporter:
       name: ShieldBlockStart_35
       rect:
         serializedVersion: 2
-        x: 681
-        y: 653
-        width: 42
-        height: 66
+        x: 640
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1265,10 +1278,10 @@ TextureImporter:
       name: ShieldBlockStart_36
       rect:
         serializedVersion: 2
-        x: 806
-        y: 650
-        width: 40
-        height: 69
+        x: 768
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1287,10 +1300,10 @@ TextureImporter:
       name: ShieldBlockStart_37
       rect:
         serializedVersion: 2
-        x: 931
-        y: 649
-        width: 40
-        height: 70
+        x: 896
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1309,10 +1322,10 @@ TextureImporter:
       name: ShieldBlockStart_38
       rect:
         serializedVersion: 2
-        x: 1058
-        y: 649
-        width: 41
-        height: 70
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1331,10 +1344,10 @@ TextureImporter:
       name: ShieldBlockStart_39
       rect:
         serializedVersion: 2
-        x: 1184
-        y: 650
-        width: 43
-        height: 70
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1353,10 +1366,10 @@ TextureImporter:
       name: ShieldBlockStart_40
       rect:
         serializedVersion: 2
-        x: 1311
-        y: 650
-        width: 44
-        height: 70
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1375,10 +1388,10 @@ TextureImporter:
       name: ShieldBlockStart_41
       rect:
         serializedVersion: 2
-        x: 1438
-        y: 651
-        width: 45
-        height: 69
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1397,10 +1410,10 @@ TextureImporter:
       name: ShieldBlockStart_42
       rect:
         serializedVersion: 2
-        x: 1565
-        y: 651
-        width: 46
-        height: 68
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1419,10 +1432,10 @@ TextureImporter:
       name: ShieldBlockStart_43
       rect:
         serializedVersion: 2
-        x: 1693
-        y: 652
-        width: 46
-        height: 67
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1441,10 +1454,10 @@ TextureImporter:
       name: ShieldBlockStart_44
       rect:
         serializedVersion: 2
-        x: 1821
-        y: 651
-        width: 46
-        height: 67
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1463,10 +1476,10 @@ TextureImporter:
       name: ShieldBlockStart_45
       rect:
         serializedVersion: 2
-        x: 37
-        y: 531
-        width: 38
-        height: 64
+        x: 0
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1485,10 +1498,10 @@ TextureImporter:
       name: ShieldBlockStart_46
       rect:
         serializedVersion: 2
-        x: 164
-        y: 531
-        width: 39
-        height: 64
+        x: 128
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1507,10 +1520,10 @@ TextureImporter:
       name: ShieldBlockStart_47
       rect:
         serializedVersion: 2
-        x: 291
-        y: 532
-        width: 40
-        height: 63
+        x: 256
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1529,10 +1542,10 @@ TextureImporter:
       name: ShieldBlockStart_48
       rect:
         serializedVersion: 2
-        x: 417
-        y: 531
-        width: 42
-        height: 64
+        x: 384
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1551,10 +1564,10 @@ TextureImporter:
       name: ShieldBlockStart_49
       rect:
         serializedVersion: 2
-        x: 542
-        y: 528
-        width: 45
-        height: 67
+        x: 512
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1573,10 +1586,10 @@ TextureImporter:
       name: ShieldBlockStart_50
       rect:
         serializedVersion: 2
-        x: 669
-        y: 526
-        width: 47
-        height: 68
+        x: 640
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1595,10 +1608,10 @@ TextureImporter:
       name: ShieldBlockStart_51
       rect:
         serializedVersion: 2
-        x: 797
-        y: 525
-        width: 48
-        height: 69
+        x: 768
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1617,10 +1630,10 @@ TextureImporter:
       name: ShieldBlockStart_52
       rect:
         serializedVersion: 2
-        x: 922
-        y: 526
-        width: 52
-        height: 67
+        x: 896
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1639,10 +1652,10 @@ TextureImporter:
       name: ShieldBlockStart_53
       rect:
         serializedVersion: 2
-        x: 1049
-        y: 528
-        width: 54
-        height: 65
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1661,10 +1674,10 @@ TextureImporter:
       name: ShieldBlockStart_54
       rect:
         serializedVersion: 2
-        x: 1178
-        y: 529
-        width: 56
-        height: 63
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1683,10 +1696,10 @@ TextureImporter:
       name: ShieldBlockStart_55
       rect:
         serializedVersion: 2
-        x: 1306
-        y: 530
-        width: 57
-        height: 62
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1705,10 +1718,10 @@ TextureImporter:
       name: ShieldBlockStart_56
       rect:
         serializedVersion: 2
-        x: 1436
-        y: 529
-        width: 56
-        height: 63
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1727,10 +1740,10 @@ TextureImporter:
       name: ShieldBlockStart_57
       rect:
         serializedVersion: 2
-        x: 1564
-        y: 529
-        width: 55
-        height: 63
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1749,10 +1762,10 @@ TextureImporter:
       name: ShieldBlockStart_58
       rect:
         serializedVersion: 2
-        x: 1692
-        y: 529
-        width: 55
-        height: 63
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1771,10 +1784,10 @@ TextureImporter:
       name: ShieldBlockStart_59
       rect:
         serializedVersion: 2
-        x: 1819
-        y: 529
-        width: 56
-        height: 62
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1793,10 +1806,10 @@ TextureImporter:
       name: ShieldBlockStart_60
       rect:
         serializedVersion: 2
-        x: 39
-        y: 412
-        width: 44
-        height: 62
+        x: 0
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1815,10 +1828,10 @@ TextureImporter:
       name: ShieldBlockStart_61
       rect:
         serializedVersion: 2
-        x: 166
-        y: 413
-        width: 45
-        height: 64
+        x: 128
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1837,10 +1850,10 @@ TextureImporter:
       name: ShieldBlockStart_62
       rect:
         serializedVersion: 2
-        x: 294
-        y: 412
-        width: 46
-        height: 61
+        x: 256
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1859,10 +1872,10 @@ TextureImporter:
       name: ShieldBlockStart_63
       rect:
         serializedVersion: 2
-        x: 421
-        y: 412
-        width: 47
-        height: 63
+        x: 384
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1881,10 +1894,10 @@ TextureImporter:
       name: ShieldBlockStart_64
       rect:
         serializedVersion: 2
-        x: 545
-        y: 410
-        width: 50
-        height: 63
+        x: 512
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1903,10 +1916,10 @@ TextureImporter:
       name: ShieldBlockStart_65
       rect:
         serializedVersion: 2
-        x: 671
-        y: 410
-        width: 53
-        height: 59
+        x: 640
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1925,10 +1938,10 @@ TextureImporter:
       name: ShieldBlockStart_66
       rect:
         serializedVersion: 2
-        x: 795
-        y: 413
-        width: 59
-        height: 55
+        x: 768
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1947,10 +1960,10 @@ TextureImporter:
       name: ShieldBlockStart_67
       rect:
         serializedVersion: 2
-        x: 922
-        y: 415
-        width: 64
-        height: 54
+        x: 896
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1969,10 +1982,10 @@ TextureImporter:
       name: ShieldBlockStart_68
       rect:
         serializedVersion: 2
-        x: 1050
-        y: 415
-        width: 67
-        height: 57
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1991,10 +2004,10 @@ TextureImporter:
       name: ShieldBlockStart_69
       rect:
         serializedVersion: 2
-        x: 1178
-        y: 415
-        width: 69
-        height: 59
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2013,10 +2026,10 @@ TextureImporter:
       name: ShieldBlockStart_70
       rect:
         serializedVersion: 2
-        x: 1307
-        y: 415
-        width: 68
-        height: 58
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2035,10 +2048,10 @@ TextureImporter:
       name: ShieldBlockStart_71
       rect:
         serializedVersion: 2
-        x: 1436
-        y: 415
-        width: 66
-        height: 59
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2057,10 +2070,10 @@ TextureImporter:
       name: ShieldBlockStart_72
       rect:
         serializedVersion: 2
-        x: 1565
-        y: 415
-        width: 65
-        height: 57
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2079,10 +2092,10 @@ TextureImporter:
       name: ShieldBlockStart_73
       rect:
         serializedVersion: 2
-        x: 1693
-        y: 415
-        width: 64
-        height: 58
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2101,10 +2114,10 @@ TextureImporter:
       name: ShieldBlockStart_74
       rect:
         serializedVersion: 2
-        x: 1821
-        y: 415
-        width: 64
-        height: 59
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2123,10 +2136,10 @@ TextureImporter:
       name: ShieldBlockStart_75
       rect:
         serializedVersion: 2
-        x: 39
-        y: 286
-        width: 51
-        height: 64
+        x: 0
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2145,10 +2158,10 @@ TextureImporter:
       name: ShieldBlockStart_76
       rect:
         serializedVersion: 2
-        x: 168
-        y: 286
-        width: 50
-        height: 66
+        x: 128
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2167,10 +2180,10 @@ TextureImporter:
       name: ShieldBlockStart_77
       rect:
         serializedVersion: 2
-        x: 296
-        y: 286
-        width: 50
-        height: 66
+        x: 256
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2189,10 +2202,10 @@ TextureImporter:
       name: ShieldBlockStart_78
       rect:
         serializedVersion: 2
-        x: 424
-        y: 286
-        width: 50
-        height: 64
+        x: 384
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2211,10 +2224,10 @@ TextureImporter:
       name: ShieldBlockStart_79
       rect:
         serializedVersion: 2
-        x: 547
-        y: 286
-        width: 55
-        height: 64
+        x: 512
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2233,10 +2246,10 @@ TextureImporter:
       name: ShieldBlockStart_80
       rect:
         serializedVersion: 2
-        x: 672
-        y: 285
-        width: 59
-        height: 64
+        x: 640
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2255,10 +2268,10 @@ TextureImporter:
       name: ShieldBlockStart_81
       rect:
         serializedVersion: 2
-        x: 799
-        y: 284
-        width: 61
-        height: 66
+        x: 768
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2277,10 +2290,10 @@ TextureImporter:
       name: ShieldBlockStart_82
       rect:
         serializedVersion: 2
-        x: 929
-        y: 283
-        width: 60
-        height: 69
+        x: 896
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2299,10 +2312,10 @@ TextureImporter:
       name: ShieldBlockStart_83
       rect:
         serializedVersion: 2
-        x: 1059
-        y: 282
-        width: 58
-        height: 71
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2321,10 +2334,10 @@ TextureImporter:
       name: ShieldBlockStart_84
       rect:
         serializedVersion: 2
-        x: 1189
-        y: 280
-        width: 55
-        height: 73
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2343,10 +2356,10 @@ TextureImporter:
       name: ShieldBlockStart_85
       rect:
         serializedVersion: 2
-        x: 1317
-        y: 280
-        width: 54
-        height: 74
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2365,10 +2378,10 @@ TextureImporter:
       name: ShieldBlockStart_86
       rect:
         serializedVersion: 2
-        x: 1445
-        y: 280
-        width: 53
-        height: 73
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2387,10 +2400,10 @@ TextureImporter:
       name: ShieldBlockStart_87
       rect:
         serializedVersion: 2
-        x: 1573
-        y: 280
-        width: 54
-        height: 73
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2409,10 +2422,10 @@ TextureImporter:
       name: ShieldBlockStart_88
       rect:
         serializedVersion: 2
-        x: 1701
-        y: 280
-        width: 54
-        height: 74
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2431,10 +2444,10 @@ TextureImporter:
       name: ShieldBlockStart_89
       rect:
         serializedVersion: 2
-        x: 1828
-        y: 280
-        width: 56
-        height: 73
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2453,10 +2466,10 @@ TextureImporter:
       name: ShieldBlockStart_90
       rect:
         serializedVersion: 2
-        x: 52
-        y: 152
-        width: 38
-        height: 67
+        x: 0
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2475,10 +2488,10 @@ TextureImporter:
       name: ShieldBlockStart_91
       rect:
         serializedVersion: 2
-        x: 180
-        y: 152
-        width: 39
-        height: 66
+        x: 128
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2497,10 +2510,10 @@ TextureImporter:
       name: ShieldBlockStart_92
       rect:
         serializedVersion: 2
-        x: 308
-        y: 152
-        width: 39
-        height: 65
+        x: 256
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2519,10 +2532,10 @@ TextureImporter:
       name: ShieldBlockStart_93
       rect:
         serializedVersion: 2
-        x: 435
-        y: 152
-        width: 41
-        height: 66
+        x: 384
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2541,10 +2554,10 @@ TextureImporter:
       name: ShieldBlockStart_94
       rect:
         serializedVersion: 2
-        x: 561
-        y: 152
-        width: 41
-        height: 67
+        x: 512
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2563,10 +2576,10 @@ TextureImporter:
       name: ShieldBlockStart_95
       rect:
         serializedVersion: 2
-        x: 689
-        y: 151
-        width: 40
-        height: 70
+        x: 640
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2585,10 +2598,10 @@ TextureImporter:
       name: ShieldBlockStart_96
       rect:
         serializedVersion: 2
-        x: 821
-        y: 150
-        width: 39
-        height: 74
+        x: 768
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2607,10 +2620,10 @@ TextureImporter:
       name: ShieldBlockStart_97
       rect:
         serializedVersion: 2
-        x: 952
-        y: 148
-        width: 39
-        height: 77
+        x: 896
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2629,10 +2642,10 @@ TextureImporter:
       name: ShieldBlockStart_98
       rect:
         serializedVersion: 2
-        x: 1080
-        y: 146
-        width: 39
-        height: 79
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2651,10 +2664,10 @@ TextureImporter:
       name: ShieldBlockStart_99
       rect:
         serializedVersion: 2
-        x: 1208
-        y: 145
-        width: 40
-        height: 80
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2673,10 +2686,10 @@ TextureImporter:
       name: ShieldBlockStart_100
       rect:
         serializedVersion: 2
-        x: 1336
-        y: 145
-        width: 42
-        height: 80
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2695,10 +2708,10 @@ TextureImporter:
       name: ShieldBlockStart_101
       rect:
         serializedVersion: 2
-        x: 1464
-        y: 145
-        width: 42
-        height: 80
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2717,10 +2730,10 @@ TextureImporter:
       name: ShieldBlockStart_102
       rect:
         serializedVersion: 2
-        x: 1592
-        y: 145
-        width: 43
-        height: 80
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2739,10 +2752,10 @@ TextureImporter:
       name: ShieldBlockStart_103
       rect:
         serializedVersion: 2
-        x: 1720
-        y: 145
-        width: 44
-        height: 79
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2761,10 +2774,10 @@ TextureImporter:
       name: ShieldBlockStart_104
       rect:
         serializedVersion: 2
-        x: 1848
-        y: 145
-        width: 44
-        height: 79
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2783,10 +2796,10 @@ TextureImporter:
       name: ShieldBlockStart_105
       rect:
         serializedVersion: 2
-        x: 52
-        y: 20
-        width: 44
-        height: 69
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2805,10 +2818,10 @@ TextureImporter:
       name: ShieldBlockStart_106
       rect:
         serializedVersion: 2
-        x: 180
-        y: 20
-        width: 44
-        height: 69
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2827,10 +2840,10 @@ TextureImporter:
       name: ShieldBlockStart_107
       rect:
         serializedVersion: 2
-        x: 308
-        y: 20
-        width: 46
-        height: 69
+        x: 256
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2849,10 +2862,10 @@ TextureImporter:
       name: ShieldBlockStart_108
       rect:
         serializedVersion: 2
-        x: 436
-        y: 20
-        width: 46
-        height: 69
+        x: 384
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2871,10 +2884,10 @@ TextureImporter:
       name: ShieldBlockStart_109
       rect:
         serializedVersion: 2
-        x: 564
-        y: 20
-        width: 50
-        height: 71
+        x: 512
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2893,10 +2906,10 @@ TextureImporter:
       name: ShieldBlockStart_110
       rect:
         serializedVersion: 2
-        x: 691
-        y: 19
-        width: 52
-        height: 74
+        x: 640
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2915,10 +2928,10 @@ TextureImporter:
       name: ShieldBlockStart_111
       rect:
         serializedVersion: 2
-        x: 818
-        y: 18
-        width: 53
-        height: 75
+        x: 768
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2937,10 +2950,10 @@ TextureImporter:
       name: ShieldBlockStart_112
       rect:
         serializedVersion: 2
-        x: 945
-        y: 18
-        width: 56
-        height: 75
+        x: 896
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2959,10 +2972,10 @@ TextureImporter:
       name: ShieldBlockStart_113
       rect:
         serializedVersion: 2
-        x: 1072
-        y: 18
-        width: 59
-        height: 75
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2981,10 +2994,10 @@ TextureImporter:
       name: ShieldBlockStart_114
       rect:
         serializedVersion: 2
-        x: 1198
-        y: 19
-        width: 60
-        height: 72
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3003,10 +3016,10 @@ TextureImporter:
       name: ShieldBlockStart_115
       rect:
         serializedVersion: 2
-        x: 1325
-        y: 19
-        width: 61
-        height: 73
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3025,10 +3038,10 @@ TextureImporter:
       name: ShieldBlockStart_116
       rect:
         serializedVersion: 2
-        x: 1452
-        y: 19
-        width: 61
-        height: 73
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3047,10 +3060,10 @@ TextureImporter:
       name: ShieldBlockStart_117
       rect:
         serializedVersion: 2
-        x: 1580
-        y: 19
-        width: 60
-        height: 73
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3069,10 +3082,10 @@ TextureImporter:
       name: ShieldBlockStart_118
       rect:
         serializedVersion: 2
-        x: 1708
-        y: 19
-        width: 60
-        height: 73
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3091,10 +3104,10 @@ TextureImporter:
       name: ShieldBlockStart_119
       rect:
         serializedVersion: 2
-        x: 1836
-        y: 18
-        width: 60
-        height: 74
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3113,7 +3126,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0cd4bce859f95064f828950794de48b0
     internalID: 0
     vertices: []
     indices: 
@@ -3121,7 +3134,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       ShieldBlockStart_0: -7932981732523690953
       ShieldBlockStart_1: -6896643129533351261
